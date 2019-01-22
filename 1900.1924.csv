@@ -1,0 +1,383 @@
+"","name","birthYear","birthDate","gender","birthplace","dates"
+"1","Hal Hicks","1900-01-01T00:00:00+02:00","1900-12-10","male","{Sillery Quebec City|Canada|Quebec}",1900-12-10
+"2","Fred Gordon","1900-01-01T00:00:00+02:00","1900-05-06","male","{Saskatchewan|Canada|Fleming Saskatchewan}",1900-05-06
+"3","Pete Bellefeuille","1900-01-01T00:00:00+02:00","1900-10-16","","{Trois-Rivières|Canada|Quebec}",1900-10-16
+"4","Roy Worters","1900-01-01T00:00:00+02:00","1900-10-19","","{Ontario|Toronto|Canada}",1900-10-19
+"5","Stan Crossett","1900-01-01T00:00:00+02:00","1900-04-18","","{Ontario|Tillsonburg|Canada}",1900-04-18
+"6","Duke McCurry","1900-01-01T00:00:00+02:00","1900-06-13","male","{Ontario|Toronto|Canada}",1900-06-13
+"7","Earl Campbell (ice hockey)","1900-01-01T00:00:00+02:00","1900-07-23","male","{Canada|Buckingham Quebec|Quebec}",1900-07-23
+"8","Reg Mackey","1900-01-01T00:00:00+02:00","1900-05-07","male","{Ontario|North Gower Township Ontario|Canada}",1900-05-07
+"9","Billy Stuart","1900-01-01T00:00:00+02:00","1900-02-01","male","{Ontario|Toronto|Canada}",1900-02-01
+"10","Alva Sibbetts","1900-01-01T00:00:00+02:00","1900-12-29","male","{Manitoba|Canada|Forest_Manitoba}",1900-12-29
+"11","Lorne Chabot","1900-01-01T00:00:00+02:00","1900-10-05","male","{Canada|Montreal|Quebec}",1900-10-05
+"12","Wilfred White (ice hockey)","1900-01-01T00:00:00+02:00","1900-06-26","","{Ontario|Canada|Erin Ontario}",1900-06-26
+"13","John Ross Roach","1900-01-01T00:00:00+02:00","1900-06-23","male","{Ontario|Port Perry|Canada}",1900-06-23
+"14","Gord McFarlane","1901-01-01T00:00:00+02:00","1901-07-18","male","{Manitoba|Snow Lake Manitoba|Canada}",1901-07-18
+"15","Roland Paulhus","1901-01-01T00:00:00+02:00","1901-09-01","male","{Sorel-Tracy|Canada|Quebec}",1901-09-01
+"16","Hap Day","1901-01-01T00:00:00+02:00","1901-06-01","male","{Ontario|Owen Sound|Canada}",1901-06-01
+"17","Aurèle Joliat","1901-01-01T00:00:00+02:00","1901-08-29","","{Ontario|Ottawa|Canada}",1901-08-29
+"18","Albert Hughes (ice hockey)","1901-01-01T00:00:00+02:00","1901-05-13","male","{Ontario|Guelph|Canada}",1901-05-13
+"19","George Owen (ice hockey)","1901-01-01T00:00:00+02:00","1901-02-12","male","{Hamilton Ontario|Ontario|Canada}",1901-02-12
+"20","Lionel Hitchman","1901-01-01T00:00:00+02:00","1901-11-03","","{Ontario|Toronto|Canada}",1901-11-03
+"21","Frank Boucher","1901-01-01T00:00:00+02:00","1901-10-07","","{Ontario|Ottawa|Canada}",1901-10-07
+"22","Fred Lowrey","1902-01-01T00:00:00+02:00","1902-08-12","","{Ontario|Ottawa|Canada}",1902-08-12
+"23","Gene Chouinard","1902-01-01T00:00:00+02:00","1902-01-05","","{Ontario|Ottawa|Canada}",1902-01-05
+"24","Rolly Huard","1902-01-01T00:00:00+02:00","1902-09-06","male","{Ontario|Ottawa|Beauharnois Quebec|Canada|Quebec}",1902-09-06
+"25","Mike Neville (ice hockey)","1902-01-01T00:00:00+02:00","1902-10-11","male","{Ontario|Grand-Mère Quebec|Toronto|Canada|Quebec}",1902-10-11
+"26","Harold Cotton (ice hockey)","1902-01-01T00:00:00+02:00","1902-11-05","","{Ontario|Canada|Nanticoke Ontario}",1902-11-05
+"27","Harold Darragh","1902-01-01T00:00:00+02:00","1902-09-13","male","{Ontario|Ottawa|Canada}",1902-09-13
+"28","Eddie McCalmon","1902-01-01T00:00:00+02:00","1902-05-30","","{Ontario|Canada|Varney Ontario}",1902-05-30
+"29","Eddie Shore","1902-01-01T00:00:00+02:00","1902-11-25","","{Saskatchewan|Canada|Fort Qu'Appelle}",1902-11-25
+"30","Art Somers","1902-01-01T00:00:00+02:00","1902-01-19","male","{Manitoba|Winnipeg|Canada}",1902-01-19
+"31","Albert Holway","1902-01-01T00:00:00+02:00","1902-09-24","","{Ontario|Toronto|Canada}",1902-09-24
+"32","Albert Leduc","1902-01-01T00:00:00+02:00","1902-11-22","male","{Salaberry-de-Valleyfield|Canada|Quebec}",1902-11-22
+"33","Alec Connell","1902-01-01T00:00:00+02:00","1902-02-08","","{Ontario|Ottawa|Canada}",1902-02-08
+"34","Sylvio Mantha","1902-01-01T00:00:00+02:00","1902-04-14","","{Canada|Montreal|Quebec}",1902-04-14
+"35","Bill Phillips (ice hockey)","1902-01-01T00:00:00+02:00","1902-09-23","male","{Ontario|Canada|Carleton Place}",1902-09-23
+"36","Jim Cain (ice hockey)","1902-01-01T00:00:00+02:00","1902-02-01","male","{Ontario|Newmarket Ontario|Canada}",1902-02-01
+"37","Frank Carson (ice hockey)","1902-01-01T00:00:00+02:00","1902-01-12","male","{Ontario|Bracebridge Ontario|Canada}",1902-01-12
+"38","Nels Stewart","1902-01-01T00:00:00+02:00","1902-12-29","male","{Canada|Montreal|Quebec}",1902-12-29
+"39","Howie Morenz","1902-01-01T00:00:00+02:00","1902-09-21","male","{Ontario|Canada|Mitchell Ontario}",1902-09-21
+"40","Hubert Davidson","1902-01-01T00:00:00+02:00","1902-06-08","male","{Saskatchewan|Canada|Indian Head Saskatchewan}",1902-06-08
+"41","Johnny McKinnon","1902-01-01T00:00:00+02:00","1902-07-15","male","{Nova Scotia|Guysborough Nova Scotia|Canada}",1902-07-15
+"42","Tiny Thompson","1903-01-01T00:00:00+02:00","1903-05-31","male","{British Columbia|Sandon British Columbia|Canada}",1903-05-31
+"43","Ganton Scott","1903-01-01T00:00:00+02:00","1903-03-23","male","{Ontario|Toronto|Canada}",1903-03-23
+"44","Doug Brennan","1903-01-01T00:00:00+02:00","1903-01-10","male","{Ontario|Canada|Peterborough Ontario}",1903-01-10
+"45","Archie Wilcox","1903-01-01T00:00:00+02:00","1903-05-05","","{Canada|Montreal|Quebec}",1903-05-05
+"46","Bun Cook","1903-01-01T00:00:00+02:00","1903-09-18","male","{Ontario|Canada|Kingston Ontario}",1903-09-18
+"47","Leo Bourgeault","1903-01-01T00:00:00+02:00","1903-01-17","male","{Ontario|West Nipissing|Canada}",1903-01-17
+"48","Frank Finnigan","1903-01-01T00:00:00+02:00","1903-07-09","male","{Canada|Quebec|Shawville Quebec}",1903-07-09
+"49","Nick Wasnie","1903-01-01T00:00:00+02:00","1903-01-28","male","{Manitoba|Winnipeg|Canada}",1903-01-28
+"50","Hooley Smith","1903-01-01T00:00:00+02:00","1903-01-07","male","{Ontario|Toronto|Canada}",1903-01-07
+"51","Ace Bailey","1903-01-01T00:00:00+02:00","1903-07-03","","{Ontario|Bracebridge Ontario|Canada}",1903-07-03
+"52","Werner Schnarr","1903-01-01T00:00:00+02:00","1903-03-23","male","{Ontario|Kitchener Ontario|Canada}",1903-03-23
+"53","King Clancy","1903-01-01T00:00:00+02:00","1903-02-25","male","{Ontario|Ottawa|Canada}",1903-02-25
+"54","Jack McVicar","1904-01-01T00:00:00+02:00","1904-06-04","male","{Ontario|Renfrew Ontario|Canada}",1904-06-04
+"55","Stewart Adams","1904-01-01T00:00:00+02:00","1904-09-16","","{Alberta|Canada|Calgary}",1904-09-16
+"56","Harry Connor","1904-01-01T00:00:00+02:00","1904-12-03","male","{Ontario|Ottawa|Canada}",1904-12-03
+"57","Henry Maracle","1904-01-01T00:00:00+02:00","1904-09-08","male","{Ontario|Ayr Ontario|Canada}",1904-09-08
+"58","Dutch Gainor","1904-01-01T00:00:00+02:00","1904-04-10","male","{Alberta|Canada|Calgary}",1904-04-10
+"59","Babe Siebert","1904-01-01T00:00:00+02:00","1904-01-14","","{Ontario|Blandford-Blenheim|Canada}",1904-01-14
+"60","Red Conn","1904-01-01T00:00:00+02:00","1904-10-25","male","{Manitoba|Hartney Manitoba|Canada}",1904-10-25
+"61","René Boileau (ice hockey)","1904-01-01T00:00:00+02:00","1904-05-18","","{Pointe-Claire|Canada|Quebec}",1904-05-18
+"62","Rennison Manners","1904-01-01T00:00:00+02:00","1904-02-05","","{Ontario|Ottawa|Canada}",1904-02-05
+"63","Alfie Moore","1904-01-01T00:00:00+02:00","1904-12-01","male","{Ontario|Toronto|Canada}",1904-12-01
+"64","Robert Boucher","1904-01-01T00:00:00+02:00","1904-02-14","male","{Ontario|Ottawa|Canada}",1904-02-14
+"65","George Horne (ice hockey)","1904-01-01T00:00:00+02:00","1904-06-27","male","{Ontario|Canada|Greater Sudbury}",1904-06-27
+"66","Murray Murdoch","1904-01-01T00:00:00+02:00","1904-05-19","male","{Ontario|Canada|Lucknow Ontario}",1904-05-19
+"67","Marvin Wentworth","1904-01-01T00:00:00+02:00","1904-01-24","male","{Ontario|Grimsby Ontario|Canada}",1904-01-24
+"68","Max Sutherland (ice hockey)","1904-01-01T00:00:00+02:00","1904-04-03","male","{Saskatchewan|Grenfell Saskatchewan|Canada}",1904-04-03
+"69","Hobie Kitchen","1904-01-01T00:00:00+02:00","1904-02-08","male","{Ontario|Newmarket Ontario|Canada}",1904-02-08
+"70","Abbie Cox","1904-01-01T00:00:00+02:00","1904-07-19","male","{Ontario|London Ontario|Canada}",1904-07-19
+"71","Cooney Weiland","1904-01-01T00:00:00+02:00","1904-11-05","male","{Ontario|Seaforth Ontario|Canada}",1904-11-05
+"72","Paul Goodman (ice hockey)","1905-01-01T00:00:00+02:00","1905-02-25","","{Manitoba|Canada|Selkirk Manitoba}",1905-02-25
+"73","Roger Cormier","1905-01-01T00:00:00+02:00","1905-03-23","","{Canada|Montreal|Quebec}",1905-03-23
+"74","Rosario Couture","1905-01-01T00:00:00+02:00","1905-07-24","male","{Manitoba|Saint Boniface Winnipeg|Canada}",1905-07-24
+"75","Russell Oatman","1905-01-01T00:00:00+02:00","1905-02-19","","{Ontario|Tillsonburg|Canada}",1905-02-19
+"76","Henry Harris (ice hockey)","1905-01-01T00:00:00+02:00","1905-04-28","male","{Ontario|Kenora|Canada}",1905-04-28
+"77","Larry Aurie","1905-01-01T00:00:00+02:00","1905-02-08","","{Ontario|Canada|Greater Sudbury}",1905-02-08
+"78","Earl Miller (ice hockey)","1905-01-01T00:00:00+02:00","1905-09-12","male","{Saskatchewan|Regina Saskatchewan|Canada}",1905-09-12
+"79","Bobby Burns (ice hockey)","1905-01-01T00:00:00+02:00","1905-04-04","","{Ontario|Gore Bay Ontario|Canada}",1905-04-04
+"80","Farrand Gillie","1905-01-01T00:00:00+02:00","1905-05-11","","{Ontario|Cornwall Ontario|Canada}",1905-05-11
+"81","Frank Ingram","1905-01-01T00:00:00+02:00","1905-09-17","","{Saskatchewan|Craven Saskatchewan|Canada}",1905-09-17
+"82","Frank Sheppard","1905-01-01T00:00:00+02:00","1905-10-19","male","{Canada|Montreal|Quebec}",1905-10-19
+"83","Frank Steele","1905-01-01T00:00:00+02:00","1905-03-09","male","{Ontario|Niagara Falls Ontario|Canada}",1905-03-09
+"84","Marty Barry","1905-01-01T00:00:00+02:00","1905-12-08","male","{Quebec City|Canada|Quebec}",1905-12-08
+"85","Marty Burke","1905-01-01T00:00:00+02:00","1905-01-28","male","{Ontario|Toronto|Canada}",1905-01-28
+"86","Gene Carrigan","1906-01-01T00:00:00+02:00","1906-07-05","male","{Alberta|Edmonton|Canada}",1906-07-05
+"87","Paul Thompson (ice hockey b. 1906)","1906-01-01T00:00:00+02:00","1906-11-02","male","{Alberta|Canada|Calgary}",1906-11-02
+"88","Percy Jackson (ice hockey)","1906-01-01T00:00:00+02:00","1906-09-21","male","{Alberta|Canmore Alberta|Canada}",1906-09-21
+"89","Herbie Lewis (ice hockey)","1906-01-01T00:00:00+02:00","1906-04-17","male","{Alberta|Canada|Calgary}",1906-04-17
+"90","Ebbie Goodfellow","1906-01-01T00:00:00+02:00","1906-04-09","","{Ontario|Ottawa|Canada}",1906-04-09
+"91","Joe Primeau","1906-01-01T00:00:00+02:00","1906-01-29","","{Ontario|Lindsay Ontario|Canada}",1906-01-29
+"92","Al Murray (ice hockey)","1906-01-01T00:00:00+02:00","1906-11-10","male","{Ontario|Canada|Stratford Ontario}",1906-11-10
+"93","Dave Trottier","1906-01-01T00:00:00+02:00","1906-06-25","male","{Ontario|Toronto|Canada}",1906-06-25
+"94","Gerry Lowrey","1906-01-01T00:00:00+02:00","1906-02-14","male","{Ontario|Ottawa|Canada}",1906-02-14
+"95","Bert Burry","1906-01-01T00:00:00+02:00","1906-02-07","male","{Ontario|Toronto|Canada}",1906-02-07
+"96","Vic Ripley","1906-01-01T00:00:00+02:00","1906-05-30","male","{Ontario|Rideau Lakes Ontario|Canada}",1906-05-30
+"97","Jimmy Ward","1906-01-01T00:00:00+02:00","1906-09-01","","{Ontario|Canada|Fort William Ontario}",1906-09-01
+"98","Melville Vail","1906-01-01T00:00:00+02:00","1906-07-05","male","{Ontario|Canada|Meaford Ontario}",1906-07-05
+"99","Ernest Kenny","1907-01-01T00:00:00+02:00","1907-08-20","male","{Alberta|Canada|Vermilion Alberta}",1907-08-20
+"100","Gord Brydson","1907-01-01T00:00:00+02:00","1907-01-03","male","{Ontario|Toronto|Canada}",1907-01-03
+"101","Yip Foster","1907-01-01T00:00:00+02:00","1907-11-25","","{Ontario|Guelph|Canada}",1907-11-25
+"102","Dit Clapper","1907-01-01T00:00:00+02:00","1907-02-09","","{Ontario|Newmarket Ontario|Canada}",1907-02-09
+"103","Don McFadyen","1907-01-01T00:00:00+02:00","1907-03-24","male","{Alberta|Canada|Crossfield Alberta}",1907-03-24
+"104","Hec Kilrea","1907-01-01T00:00:00+02:00","1907-06-11","male","{Ontario|Blackburn Hamlet|Canada}",1907-06-11
+"105","Earl Robinson (ice hockey)","1907-01-01T00:00:00+02:00","1907-03-11","","{Canada|Montreal|Quebec}",1907-03-11
+"106","Art Alexandre","1907-01-01T00:00:00+02:00","1907-03-02","male","{Saint-Jean-sur-Richelieu|Canada|Quebec}",1907-03-02
+"107","Georges Mantha","1907-01-01T00:00:00+02:00","1907-11-29","","{Lachine Quebec|Canada|Quebec}",1907-11-29
+"108","Bud Jarvis","1907-01-01T00:00:00+02:00","1907-12-07","male","{Ontario|Canada|Fort William Ontario}",1907-12-07
+"109","Walter Buswell","1907-01-01T00:00:00+02:00","1907-11-06","","{Canada|Montreal|Quebec}",1907-11-06
+"110","Allan Shields","1907-01-01T00:00:00+02:00","1907-05-10","","{Ontario|Ottawa|Canada}",1907-05-10
+"111","Sammy Godin","1907-01-01T00:00:00+02:00","1907-09-20","male","{Ontario|Canada|Rockland Ontario}",1907-09-20
+"112","Doug Young (ice hockey)","1908-01-01T00:00:00+02:00","1908-10-01","","{Alberta|Medicine Hat|Canada}",1908-10-01
+"113","Ron Lyons","1908-01-01T00:00:00+02:00","1908-02-15","male","{Manitoba|Portage la Prairie|Canada}",1908-02-15
+"114","Stan McCabe (ice hockey)","1908-01-01T00:00:00+02:00","1908-06-16","","{Ontario|Ottawa|Canada}",1908-06-16
+"115","Lawrence Northcott","1908-01-01T00:00:00+02:00","1908-09-07","","{Alberta|Canada|Calgary}",1908-09-07
+"116","Art Giroux","1908-01-01T00:00:00+02:00","1908-06-06","male","{Alberta|Strathmore Alberta|Canada}",1908-06-06
+"117","Mush March","1908-01-01T00:00:00+02:00","1908-10-18","male","{Saskatchewan|Silton Saskatchewan|Canada}",1908-10-18
+"118","Benny Grant","1908-01-01T00:00:00+02:00","1908-07-14","","{Ontario|Owen Sound|Canada}",1908-07-14
+"119","Walter Monson","1908-01-01T00:00:00+02:00","1908-11-29","male","{Manitoba|Winnipeg|Canada}",1908-11-29
+"120","Andy Blair (ice hockey)","1908-01-01T00:00:00+02:00","1908-02-27","","{Manitoba|Winnipeg|Canada}",1908-02-27
+"121","Lloyd McIntyre","1908-01-01T00:00:00+02:00","1908-05-13","male","{New Brunswick|Canada|Chatham New Brunswick}",1908-05-13
+"122","Normie Smith","1908-01-01T00:00:00+02:00","1908-03-18","","{Ontario|Toronto|Canada}",1908-03-18
+"123","Wilfie Starr","1908-01-01T00:00:00+02:00","1908-07-22","male","{Manitoba|Saint Boniface Winnipeg|Canada}",1908-07-22
+"124","D'Arcy Coulson","1908-01-01T00:00:00+02:00","1908-02-17","male","{Ontario|Canada|Greater Sudbury}",1908-02-17
+"125","Jack Howard (ice hockey)","1909-01-01T00:00:00+02:00","1909-10-15","male","{Ontario|London Ontario|Canada}",1909-10-15
+"126","Hal Picketts","1909-01-01T00:00:00+02:00","1909-04-22","male","{Saskatchewan|Canada|Asquith Saskatchewan}",1909-04-22
+"127","Des Roche","1909-01-01T00:00:00+02:00","1909-02-01","male","{Ontario|Canada|Kemptville}",1909-02-01
+"128","Art Coulter","1909-01-01T00:00:00+02:00","1909-05-31","male","{Manitoba|Winnipeg|Canada}",1909-05-31
+"129","Al Huggins","1909-01-01T00:00:00+02:00","1909-12-21","male","{Ontario|Toronto|Canada}",1909-12-21
+"130","Dave Downie","1909-01-01T00:00:00+02:00","1909-03-11","male","{Ontario|Burk's Falls Ontario|Canada}",1909-03-11
+"131","Dave Kerr","1909-01-01T00:00:00+02:00","1909-01-11","","{Ontario|Toronto|Canada}",1909-01-11
+"132","Bert Connelly","1909-01-01T00:00:00+02:00","1909-04-22","male","{Canada|Montreal|Quebec}",1909-04-22
+"133","Bill Beveridge","1909-01-01T00:00:00+02:00","1909-07-01","","{Ontario|Ottawa|Canada}",1909-07-01
+"134","Wally Kilrea","1909-01-01T00:00:00+02:00","1909-02-18","male","{Ontario|Ottawa|Canada}",1909-02-18
+"135","Walter McCartney","1909-01-01T00:00:00+02:00","1909-04-26","male","{Saskatchewan|Canada|Weyburn}",1909-04-26
+"136","Charlie Conacher","1909-01-01T00:00:00+02:00","1909-12-20","male","{Ontario|Toronto|Canada}",1909-12-20
+"137","Keith Campbell (ice hockey)","1909-01-01T00:00:00+02:00","1909-09-21","male","{Ontario|Canada}",1909-09-21
+"138","Jack Leswick","1910-01-01T00:00:00+02:00","1910-01-01","","{Saskatchewan|Canada|Humboldt Saskatchewan}",1910-01-01
+"139","Gord Reid (ice hockey)","1910-01-01T00:00:00+02:00","1910-02-19","male","{Ontario|Mount Albert Ontario|Canada}",1910-02-19
+"140","Earl Roche","1910-01-01T00:00:00+02:00","1910-02-22","male","{Ontario|Prescott Ontario|Canada}",1910-02-22
+"141","Ehrhardt Heller","1910-01-01T00:00:00+02:00","1910-06-02","","{Ontario|Kitchener Ontario|Canada}",1910-06-02
+"142","Joe Beaton","1910-01-01T00:00:00+02:00","1910-06-18","","{Nova Scotia|Stellarton|Canada}",1910-06-18
+"143","Aubrey Webster","1910-01-01T00:00:00+02:00","1910-09-25","","{Ontario|Kenora|Canada}",1910-09-25
+"144","Red Spooner","1910-01-01T00:00:00+02:00","1910-08-24","","{Ontario|Port Arthur Ontario|Canada}",1910-08-24
+"145","Dede Klein","1910-01-01T00:00:00+02:00","1910-01-13","male","{Saskatchewan|Saskatoon|Canada}",1910-01-13
+"146","Gerry Shannon","1910-01-01T00:00:00+02:00","1910-10-25","male","{Ontario|Campbellford|Canada}",1910-10-25
+"147","Glen Brydson","1910-01-01T00:00:00+02:00","1910-11-07","","{Ontario|Swansea Toronto|Canada}",1910-11-07
+"148","Bert Peer","1910-01-01T00:00:00+02:00","1910-11-12","","{Ontario|Canada|Port Credit Ontario}",1910-11-12
+"149","Bill Hudson (ice hockey)","1910-01-01T00:00:00+02:00","1910-07-14","male","{Alberta|Canada|Calgary}",1910-07-14
+"150","Bill Hutton","1910-01-01T00:00:00+02:00","1910-01-28","","{Alberta|Canada|Calgary}",1910-01-28
+"151","Bill Thoms","1910-01-01T00:00:00+02:00","1910-03-05","male","{Ontario|Newmarket Ontario|Canada}",1910-03-05
+"152","Bob Gracie","1910-01-01T00:00:00+02:00","1910-11-08","","{Ontario|North Bay Ontario|Canada}",1910-11-08
+"153","Lorne Carr","1910-01-01T00:00:00+02:00","1910-07-02","","{Saskatchewan|Canada|Stoughton Saskatchewan}",1910-07-02
+"154","Norman Collings","1910-01-01T00:00:00+02:00","1910-05-06","male","{Ontario|Canada|Bradford Ontario}",1910-05-06
+"155","Ellis Pringle","1911-01-01T00:00:00+02:00","1911-08-31","male","{Ontario|Toronto|Canada}",1911-08-31
+"156","Thomas Coulter (ice hockey)","1911-01-01T00:00:00+02:00","1911-04-21","male","{Manitoba|Winnipeg|Canada}",1911-04-21
+"157","Gordon Dailley","1911-01-01T00:00:00+02:00","1911-07-24","male","Canada",1911-07-24
+"158","George Abbott (ice hockey)","1911-01-01T00:00:00+02:00","1911-08-03","male","{Ontario|South Frontenac Ontario|Canada|Sydenham Ontario}",1911-08-03
+"159","Tommy Ivan","1911-01-01T00:00:00+02:00","1911-01-31","male","{Ontario|Toronto|Canada}",1911-01-31
+"160","Earl Seibert","1911-01-01T00:00:00+02:00","1911-12-07","","{Ontario|Kitchener Ontario|Canada}",1911-12-07
+"161","Eddie Ouellette","1911-01-01T00:00:00+02:00","1911-03-09","","{Ontario|Ottawa|Canada}",1911-03-09
+"162","Eddie Wiseman","1911-01-01T00:00:00+02:00","1911-12-28","male","{New Brunswick|Canada|Newcastle New Brunswick}",1911-12-28
+"163","Ralph Bowman","1911-01-01T00:00:00+02:00","1911-06-20","","{Manitoba|Winnipeg|Canada}",1911-06-20
+"164","Teddy Saunders","1911-01-01T00:00:00+02:00","1911-08-29","male","{Ontario|Ottawa|Canada}",1911-08-29
+"165","Bobby Lee (ice hockey)","1911-01-01T00:00:00+02:00","1911-12-28","","{Verdun Quebec|Canada|Quebec}",1911-12-28
+"166","Busher Jackson","1911-01-01T00:00:00+02:00","1911-01-17","male","{Ontario|Toronto|Canada}",1911-01-17
+"167","Buzz Boll","1911-01-01T00:00:00+02:00","1911-03-06","male","{Ontario|Saskatchewan|Fillmore Saskatchewan|Canada|Orangeville Ontario}",1911-03-06
+"168","Jean Bourcier","1911-01-01T00:00:00+02:00","1911-01-03","","{Canada|Montreal|Quebec}",1911-01-03
+"169","Flash Hollett","1911-01-01T00:00:00+02:00","1911-04-13","","{Nova Scotia|Canada|North Sydney Nova Scotia}",1911-04-13
+"170","Nels Crutchfield","1911-01-01T00:00:00+02:00","1911-07-12","male","{Brome Lake Quebec|Canada|Quebec}",1911-07-12
+"171","Charlie Sands (ice hockey)","1911-01-01T00:00:00+02:00","1911-05-23","","{Ontario|Canada|Fort William Ontario}",1911-05-23
+"172","Toe Blake","1912-01-01T00:00:00+02:00","1912-08-21","male","{Ontario|Walden Ontario|Canada}",1912-08-21
+"173","Lynn Patrick","1912-01-01T00:00:00+02:00","1912-02-03","male","{British Columbia|Victoria British Columbia|Canada}",1912-02-03
+"174","Harvey Stapleford","1912-01-01T00:00:00+02:00","1912-02-25","male","{Ontario|Canada|Warwick Ontario}",1912-02-25
+"175","Henry Dyck","1912-01-01T00:00:00+02:00","1912-09-05","","{Saskatchewan|Saskatoon|Canada}",1912-09-05
+"176","Herb Cain","1912-01-01T00:00:00+02:00","1912-12-24","","{Ontario|Newmarket Ontario|Canada}",1912-12-24
+"177","Red Anderson (ice hockey)","1912-01-01T00:00:00+02:00","1912-12-13","male","{Ontario|Tillsonburg|Canada}",1912-12-13
+"178","George Brown (ice hockey)","1912-01-01T00:00:00+02:00","1912-05-17","male","{Manitoba|Winnipeg|Canada}",1912-05-17
+"179","Bill Cowley","1912-01-01T00:00:00+02:00","1912-06-12","","{Bristol Quebec|Canada|Quebec}",1912-06-12
+"180","Bob Davidson (ice hockey)","1912-01-01T00:00:00+02:00","1912-02-10","","{Ontario|Toronto|Canada}",1912-02-10
+"181","Walt Farrant","1912-01-01T00:00:00+02:00","1912-08-12","","{Ontario|Toronto|Canada}",1912-08-12
+"182","Max Bennett (ice hockey)","1912-01-01T00:00:00+02:00","1912-11-04","","{Ontario|Cobalt Ontario|Canada}",1912-11-04
+"183","Ken Stewart (ice hockey)","1912-01-01T00:00:00+02:00","1912-03-29","male","{Ontario|Port Arthur Ontario|Canada}",1912-03-29
+"184","Kenneth Farmer","1912-01-01T00:00:00+02:00","1912-09-26","","{Canada|Westmount Quebec|Quebec}",1912-09-26
+"185","Jack Forsey","1913-01-01T00:00:00+02:00","1913-11-17","","{Saskatchewan|Swift Current|Canada}",1913-11-17
+"186","Gordie Drillon","1913-01-01T00:00:00+02:00","1913-10-23","male","{Moncton|New Brunswick|Canada}",1913-10-23
+"187","Don Deacon","1913-01-01T00:00:00+02:00","1913-06-02","male","{Canada|Shawinigan|Quebec}",1913-06-02
+"188","Don Willson","1913-01-01T00:00:00+02:00","1913-01-13","male","{Ontario|Chatham-Kent|Canada}",1913-01-13
+"189","Phil Bessler","1913-01-01T00:00:00+02:00","1913-12-09","male","{Saskatchewan|Canada|Melville Saskatchewan}",1913-12-09
+"190","Phil Stein","1913-01-01T00:00:00+02:00","1913-09-13","","{Ontario|Toronto|Canada}",1913-09-13
+"191","Nakina Smith","1913-01-01T00:00:00+02:00","1913-07-26","","{Ontario|West Nipissing|Canada}",1913-07-26
+"192","Bert Gardiner","1913-01-01T00:00:00+02:00","1913-03-25","male","{Saskatchewan|Saskatoon|Canada}",1913-03-25
+"193","Bryan Hextall","1913-01-01T00:00:00+02:00","1913-07-31","male","{Saskatchewan|Grenfell Saskatchewan|Canada}",1913-07-31
+"194","Les Cunningham","1913-01-01T00:00:00+02:00","1913-10-04","male","{Alberta|Canada|Calgary}",1913-10-04
+"195","Clint Smith","1913-01-01T00:00:00+02:00","1913-12-12","male","{Saskatchewan|Canada|Assiniboia Saskatchewan}",1913-12-12
+"196","Irv McGibbon","1914-01-01T00:00:00+02:00","1914-10-11","","{Nova Scotia|Antigonish Nova Scotia|Canada}",1914-10-11
+"197","Gordon Poirier","1914-01-01T00:00:00+02:00","1914-10-27","male","{Saskatchewan|Canada|Maple Creek Saskatchewan}",1914-10-27
+"198","Gus Mancuso (ice hockey)","1914-01-01T00:00:00+02:00","1914-04-11","","{Ontario|Niagara Falls Ontario|Canada}",1914-04-11
+"199","George Allen (ice hockey)","1914-01-01T00:00:00+02:00","1914-07-27","","{New Brunswick|Canada|Bayfield New Brunswick}",1914-07-27
+"200","Patsy Guzzo","1914-01-01T00:00:00+02:00","1914-10-14","male","{Ontario|Ottawa|Canada}",1914-10-14
+"201","Des Smith (ice hockey)","1914-01-01T00:00:00+02:00","1914-02-22","male","{Ontario|Ottawa|Canada}",1914-02-22
+"202","Turk Broda","1914-01-01T00:00:00+02:00","1914-05-15","","{Manitoba|Brandon Manitoba|Canada}",1914-05-15
+"203","Joe Cooper (ice hockey)","1914-01-01T00:00:00+02:00","1914-12-14","male","{Manitoba|Winnipeg|Canada}",1914-12-14
+"204","Ray Getliffe","1914-01-01T00:00:00+02:00","1914-04-03","male","{Ontario|Cambridge Ontario|Canada}",1914-04-03
+"205","Reg Bentley","1914-01-01T00:00:00+02:00","1914-05-03","male","{Saskatchewan|Canada|Delisle Saskatchewan}",1914-05-03
+"206","Phil Hergesheimer","1914-01-01T00:00:00+02:00","1914-07-09","","{Manitoba|Winnipeg|Canada}",1914-07-09
+"207","Alex Shibicky","1914-01-01T00:00:00+02:00","1914-05-19","male","{Manitoba|Winnipeg|Canada}",1914-05-19
+"208","George McNeil (ice hockey)","1914-01-01T00:00:00+02:00","1914-07-26","male","{Nova Scotia|Canada}",1914-07-26
+"209","Gerry Davey","1914-01-01T00:00:00+02:00","1914-09-05","male","{Ontario|Port Arthur Ontario|Canada}",1914-09-05
+"210","Mud Bruneteau","1914-01-01T00:00:00+02:00","1914-11-28","male","{Manitoba|Saint Boniface Winnipeg|Canada}",1914-11-28
+"211","Bob McCulley","1914-01-01T00:00:00+02:00","1914-02-08","","{Ontario|Canada|Stratford Ontario}",1914-02-08
+"212","Jimmy Franks (ice hockey)","1914-01-01T00:00:00+02:00","1914-11-08","male","{Saskatchewan|Canada|Melville Saskatchewan}",1914-11-08
+"213","Lionel Bouvrette","1914-01-01T00:00:00+02:00","1914-06-10","","{Ontario|Canada|Hawkesbury Ontario}",1914-06-10
+"214","Maurice Courteau","1914-01-01T00:00:00+02:00","1914-02-18","male","{Quebec City|Canada|Quebec}",1914-02-18
+"215","Maurice Croghan","1914-01-01T00:00:00+02:00","1914-11-19","male","{Canada|Montreal|Quebec}",1914-11-19
+"216","Neil Colville","1914-01-01T00:00:00+02:00","1914-08-04","male","{Alberta|Edmonton|Canada}",1914-08-04
+"217","Nick Metz","1914-01-01T00:00:00+02:00","1914-02-16","","{Saskatchewan|Wilcox Saskatchewan|Canada}",1914-02-16
+"218","Clarence Rost","1914-01-01T00:00:00+02:00","1914-03-09","male","{Manitoba|Winnipeg|Canada}",1914-03-09
+"219","Kilby MacDonald","1914-01-01T00:00:00+02:00","1914-09-06","","{Ontario|Ottawa|Canada}",1914-09-06
+"220","Paul Gauthier (ice hockey)","1915-01-01T00:00:00+02:00","1915-12-08","","{Manitoba|Winnipeg|Canada}",1915-12-08
+"221","Pete Morin","1915-01-01T00:00:00+02:00","1915-12-08","","{Lachine Quebec|Canada|Quebec}",1915-12-08
+"222","Mike McMahon Sr.","1915-01-01T00:00:00+02:00","1915-02-01","male","{Ontario|Brockville|Canada}",1915-02-01
+"223","Larry Thibeault","1915-01-01T00:00:00+02:00","1915-10-02","male","{Ontario|Charleston Lake|Canada}",1915-10-02
+"224","Joe Shack","1915-01-01T00:00:00+02:00","1915-12-08","","{Manitoba|Winnipeg|Canada}",1915-12-08
+"225","Stuart Ernest Smith","1915-01-01T00:00:00+02:00","1915-09-25","male","{Manitoba|Canada|Basswood_Manitoba}",1915-09-25
+"226","Muzz Patrick","1915-01-01T00:00:00+02:00","1915-06-28","","{British Columbia|Victoria British Columbia|Canada}",1915-06-28
+"227","Bob Kirkpatrick","1915-01-01T00:00:00+02:00","1915-12-01","male","{Saskatchewan|Regina Saskatchewan|Canada}",1915-12-01
+"228","Bobby Bauer","1915-01-01T00:00:00+02:00","1915-02-16","male","{Ontario|Waterloo Ontario|Canada}",1915-02-16
+"229","Jimmy Fowler","1915-01-01T00:00:00+02:00","1915-04-06","male","{Ontario|Toronto|Canada}",1915-04-06
+"230","Cliff Goupille","1915-01-01T00:00:00+02:00","1915-09-02","male","{Trois-Rivières|Canada|Quebec}",1915-09-02
+"231","Carl Liscombe","1915-01-01T00:00:00+02:00","1915-05-17","male","{Ontario|Perth Ontario|Canada}",1915-05-17
+"232","Jack Crawford (ice hockey)","1916-01-01T00:00:00+02:00","1916-10-26","male","{Ontario|Canada|West Perth Ontario}",1916-10-26
+"233","Ernie Laforce","1916-01-01T00:00:00+02:00","1916-06-23","","{Canada|Montreal|Quebec}",1916-06-23
+"234","Mac Colville","1916-01-01T00:00:00+02:00","1916-01-08","male","{Alberta|Edmonton|Canada}",1916-01-08
+"235","Woody Dumart","1916-01-01T00:00:00+02:00","1916-12-23","male","{Ontario|Kitchener Ontario|Canada}",1916-12-23
+"236","Pete Leswick","1916-01-01T00:00:00+02:00","1916-07-12","male","{Saskatchewan|Saskatoon|Canada}",1916-07-12
+"237","Don Metz (ice hockey)","1916-01-01T00:00:00+02:00","1916-01-10","male","{Saskatchewan|Wilcox Saskatchewan|Canada}",1916-01-10
+"238","Doug Bentley","1916-01-01T00:00:00+02:00","1916-09-03","","{Saskatchewan|Canada|Delisle Saskatchewan}",1916-09-03
+"239","Roy Conacher","1916-01-01T00:00:00+02:00","1916-10-05","male","{Ontario|Toronto|Canada}",1916-10-05
+"240","Joe Benoit","1916-01-01T00:00:00+02:00","1916-02-27","male","{Alberta|St. Albert Alberta|Canada}",1916-02-27
+"241","Babe Pratt","1916-01-01T00:00:00+02:00","1916-01-07","male","{Manitoba|Canada|Stony Mountain Manitoba}",1916-01-07
+"242","Al Carr","1916-01-01T00:00:00+02:00","1916-12-29","male","{Manitoba|Winnipeg|Canada}",1916-12-29
+"243","Murray Armstrong","1916-01-01T00:00:00+02:00","1916-01-01","","{Saskatchewan|Regina Saskatchewan|Canada|Manor Saskatchewan}",1916-01-01
+"244","Bill Allum","1916-01-01T00:00:00+02:00","1916-10-09","male","{Manitoba|Winnipeg|Canada}",1916-10-09
+"245","Bill Dickie (ice hockey)","1916-01-01T00:00:00+02:00","1916-02-20","","{New Brunswick|Campbellton New Brunswick|Canada}",1916-02-20
+"246","Bill Durnan","1916-01-01T00:00:00+02:00","1916-01-22","male","{Ontario|Toronto|Canada}",1916-01-22
+"247","Bill Fraser (ice hockey)","1916-01-01T00:00:00+02:00","1916-01-31","male","{Manitoba|Winnipeg|Canada}",1916-01-31
+"248","Buddy O'Connor","1916-01-01T00:00:00+02:00","1916-06-21","","{Canada|Montreal|Quebec}",1916-06-21
+"249","Butch McDonald","1916-01-01T00:00:00+02:00","1916-11-21","male","{Saskatchewan|Canada|Assiniboia Saskatchewan}",1916-11-21
+"250","Viv Allen","1916-01-01T00:00:00+02:00","1916-09-09","male","{New Brunswick|Canada|Bayfield New Brunswick}",1916-09-09
+"251","Jimmy Orlando","1916-01-01T00:00:00+02:00","1916-02-27","","{Canada|Montreal|Quebec}",1916-02-27
+"252","Leo Lamoureux","1916-01-01T00:00:00+02:00","1916-10-01","male","{Ontario|Espanola Ontario|Canada}",1916-10-01
+"253","Frank Mailley","1916-01-01T00:00:00+02:00","1916-08-01","","{Lachine Quebec|Canada|Quebec}",1916-08-01
+"254","Martin Zoborosky","1916-01-01T00:00:00+02:00","1916-11-12","","{Saskatchewan|Moose Jaw|Canada}",1916-11-12
+"255","Nick Damore","1916-01-01T00:00:00+02:00","1916-07-10","","{Ontario|Niagara Falls Ontario|Canada}",1916-07-10
+"256","Conrad Bourcier","1916-01-01T00:00:00+02:00","1916-05-28","male","{Canada|Montreal|Quebec}",1916-05-28
+"257","Johnny Mowers","1916-01-01T00:00:00+02:00","1916-10-29","","{Ontario|Niagara Falls Ontario|Canada}",1916-10-29
+"258","Jack Stewart (ice hockey)","1917-01-01T00:00:00+02:00","1917-05-06","male","{Manitoba|Canada|Pilot Mound Manitoba}",1917-05-06
+"259","Lude Check","1917-01-01T00:00:00+02:00","1917-05-22","","{Manitoba|Brandon Manitoba|Canada}",1917-05-22
+"260","Gus Giesebrecht","1917-01-01T00:00:00+02:00","1917-09-14","male","{Ontario|Pembroke Ontario|Canada}",1917-09-14
+"261","Pete Langelle","1917-01-01T00:00:00+02:00","1917-11-04","male","{Manitoba|Winnipeg|Canada}",1917-11-04
+"262","Stanford Smith","1917-01-01T00:00:00+02:00","1917-08-13","male","{British Columbia|Canada|Coal Creek British Columbia}",1917-08-13
+"263","Steve Buzinski","1917-01-01T00:00:00+02:00","1917-10-15","","{Saskatchewan|Dunblane Saskatchewan|Canada}",1917-10-15
+"264","Hazen McAndrew","1917-01-01T00:00:00+02:00","1917-08-07","male","{Yukon|Mayo Yukon|Canada}",1917-08-07
+"265","Arch Wilder","1917-01-01T00:00:00+02:00","1917-04-30","","{Saskatchewan|Canada|Melville Saskatchewan}",1917-04-30
+"266","Art Herchenratter","1917-01-01T00:00:00+02:00","1917-11-24","","{Ontario|Kitchener Ontario|Canada}",1917-11-24
+"267","Oscar Aubuchon","1917-01-01T00:00:00+02:00","1917-01-01","male","{Saint-Hyacinthe Quebec|Canada|Quebec}",1917-01-01
+"268","Red Hamill","1917-01-01T00:00:00+02:00","1917-01-11","male","{Ontario|Toronto|Canada}",1917-01-11
+"269","Alf Pike","1917-01-01T00:00:00+02:00","1917-09-15","male","{Manitoba|Winnipeg|Canada}",1917-09-15
+"270","Lloyd Ailsby","1917-01-01T00:00:00+02:00","1917-05-11","male","{Saskatchewan|Canada|Lac Pelletier No. 107 Saskatchewan}",1917-05-11
+"271","Jack Dyte","1918-01-01T00:00:00+02:00","1918-10-13","","{Ontario|Temiskaming Shores|Canada}",1918-10-13
+"272","Elmer Lach","1918-01-01T00:00:00+02:00","1918-01-22","male","{Saskatchewan|Canada|Nokomis Saskatchewan}",1918-01-22
+"273","Hank Goldup","1918-01-01T00:00:00+02:00","1918-10-29","male","{Ontario|Canada|Kingston Ontario}",1918-10-29
+"274","Peanuts O'Flaherty","1918-01-01T00:00:00+02:00","1918-04-10","male","{Ontario|Toronto|Canada}",1918-04-10
+"275","Russ Brayshaw","1918-01-01T00:00:00+02:00","1918-01-17","male","{Saskatchewan|Rosthern Saskatchewan|Canada}",1918-01-17
+"276","Milt Schmidt","1918-01-01T00:00:00+02:00","1918-03-05","male","{Ontario|Kitchener Ontario|Canada}",1918-03-05
+"277","Sid Abel","1918-01-01T00:00:00+02:00","1918-02-22","","{Saskatchewan|Canada|Melville Saskatchewan}",1918-02-22
+"278","John Mahaffy (ice hockey)","1918-01-01T00:00:00+02:00","1918-07-18","male","{Canada|Montreal|Quebec}",1918-07-18
+"279","Pat Egan","1918-01-01T00:00:00+02:00","1918-04-25","male","{Alberta|Canada|Blackie Alberta}",1918-04-25
+"280","Pat McReavy","1918-01-01T00:00:00+02:00","1918-01-16","male","{Ontario|Owen Sound|Canada}",1918-01-16
+"281","Red Storey","1918-01-01T00:00:00+02:00","1918-03-05","","{Ontario|Barrie|Canada}",1918-03-05
+"282","Punch Imlach","1918-01-01T00:00:00+02:00","1918-03-15","male","{Ontario|Toronto|Canada}",1918-03-15
+"283","Alex Smart","1918-01-01T00:00:00+02:00","1918-05-25","male","{Manitoba|Brandon Manitoba|Canada}",1918-05-25
+"284","Mitch Pechet","1918-01-01T00:00:00+02:00","1918-05-07","male","{Saskatchewan|Cupar|Canada}",1918-05-07
+"285","Billy Reay","1918-01-01T00:00:00+02:00","1918-08-21","male","{Manitoba|Winnipeg|Canada}",1918-08-21
+"286","Frank McCool","1918-01-01T00:00:00+02:00","1918-10-27","male","{Alberta|Canada|Calgary}",1918-10-27
+"287","Connie Dion","1918-01-01T00:00:00+02:00","1918-08-11","male","{Canada|Quebec|Saint-Rémi-de-Tingwick Quebec}",1918-08-11
+"288","Jack Riley (ice hockey born 1919)","1919-01-01T00:00:00+02:00","1919-06-15","male","{Ontario|Toronto|Canada}",1919-06-15
+"289","Terry Reardon","1919-01-01T00:00:00+02:00","1919-04-06","male","{Manitoba|Winnipeg|Canada}",1919-04-06
+"290","Pete Backor","1919-01-01T00:00:00+02:00","1919-04-29","","{Ontario|Canada|Fort William Ontario}",1919-04-29
+"291","Ross King (ice hockey)","1919-01-01T00:00:00+02:00","1919-02-19","male","{Portage la Prairie|Canada}",1919-02-19
+"292","Herb Carnegie","1919-01-01T00:00:00+02:00","1919-11-08","male","{Ontario|Toronto|Canada}",1919-11-08
+"293","Larry Archambeault","1919-01-01T00:00:00+02:00","1919-02-22","male","{Aylmer Quebec|Canada|Quebec}",1919-02-22
+"294","Edgar Laprade","1919-01-01T00:00:00+02:00","1919-10-10","male","{Ontario|Seine River First Nation|Canada}",1919-10-10
+"295","Baz Bastien","1919-01-01T00:00:00+02:00","1919-08-29","male","{Ontario|Canada|Timmins}",1919-08-29
+"296","Alex Kaleta","1919-01-01T00:00:00+02:00","1919-11-29","male","{Alberta|Canmore Alberta|Canada}",1919-11-29
+"297","Moe White","1919-01-01T00:00:00+02:00","1919-07-28","male","{Verdun Quebec|Canada|Quebec}",1919-07-28
+"298","Billy Taylor (ice hockey b. 1919)","1919-01-01T00:00:00+02:00","1919-05-03","","{Manitoba|Winnipeg|Canada}",1919-05-03
+"299","Wally Stanowski","1919-01-01T00:00:00+02:00","1919-04-28","male","{Manitoba|Winnipeg|Canada}",1919-04-28
+"300","Les Colvin","1919-01-01T00:00:00+02:00","1919-02-08","","{Ontario|Oshawa|Canada}",1919-02-08
+"301","Ned Harkness","1919-01-01T00:00:00+02:00","1919-09-19","","{Ontario|Ottawa|Canada}",1919-09-19
+"302","Hank Blade","1920-01-01T00:00:00+02:00","1920-04-28","male","{Ontario|Canada|Peterborough Ontario}",1920-04-28
+"303","Garth Boesch","1920-01-01T00:00:00+02:00","1920-10-07","","{Saskatchewan|Canada|Milestone Saskatchewan}",1920-10-07
+"304","Harold Brown (ice hockey)","1920-01-01T00:00:00+02:00","1920-09-14","male","{Manitoba|Brandon Manitoba|Canada}",1920-09-14
+"305","Jud McAtee","1920-01-01T00:00:00+02:00","1920-02-05","male","{Ontario|Canada|Stratford Ontario}",1920-02-05
+"306","Bill Benson","1920-01-01T00:00:00+02:00","1920-07-29","male","{Manitoba|Winnipeg|Canada}",1920-07-29
+"307","Bill Juzda","1920-01-01T00:00:00+02:00","1920-10-29","male","{Manitoba|Winnipeg|Canada}",1920-10-29
+"308","Bob Fillion","1920-01-01T00:00:00+02:00","1920-07-12","male","{Thetford Mines|Canada|Quebec}",1920-07-12
+"309","Andy Gilpin","1920-01-01T00:00:00+02:00","1920-09-30","male","{Canada|Montreal|Quebec}",1920-09-30
+"310","Felix Rossignol","1920-01-01T00:00:00+02:00","1920-10-18","male","{New Brunswick|Edmundston|Canada}",1920-10-18
+"311","Max Bentley","1920-01-01T00:00:00+02:00","1920-03-01","male","{Saskatchewan|Canada|Delisle Saskatchewan}",1920-03-01
+"312","Chick Webster","1920-01-01T00:00:00+02:00","1920-11-03","male","{Ontario|Toronto|Canada}",1920-11-03
+"313","Chuck Rayner","1920-01-01T00:00:00+02:00","1920-08-11","male","{Saskatchewan|Sutherland Saskatoon|Canada}",1920-08-11
+"314","Grant Warwick","1921-01-01T00:00:00+02:00","1921-10-11","male","{Saskatchewan|Regina Saskatchewan|Canada}",1921-10-11
+"315","Roland McLenahan","1921-01-01T00:00:00+02:00","1921-10-26","male","{Fredericton|New Brunswick|Canada}",1921-10-26
+"316","Tony Licari","1921-01-01T00:00:00+02:00","1921-04-09","male","{Ontario|Ottawa|Canada}",1921-04-09
+"317","Armand Gaudreault","1921-01-01T00:00:00+02:00","1921-07-14","male","{Canada|Lake Saint-Jean|Quebec}",1921-07-14
+"318","George Mara","1921-01-01T00:00:00+02:00","1921-12-12","male","{Ontario|Toronto|Canada}",1921-12-12
+"319","Glen Harmon","1921-01-01T00:00:00+02:00","1921-01-02","male","{Manitoba|Holland Manitoba|Canada}",1921-01-02
+"320","Murray Henderson (ice hockey)","1921-01-01T00:00:00+02:00","1921-09-05","male","{Ontario|Toronto|Canada}",1921-09-05
+"321","Bill Mosienko","1921-01-01T00:00:00+02:00","1921-11-02","male","{Manitoba|Winnipeg|Canada}",1921-11-02
+"322","Jean-Paul Gladu","1921-01-01T00:00:00+02:00","1921-06-20","male","{Saint-Hyacinthe Quebec|Canada|Quebec}",1921-06-20
+"323","Lloyd Doran","1921-01-01T00:00:00+02:00","1921-01-10","","{Ontario|Canada|Neighbourhoods in Timmins}",1921-01-10
+"324","Lloyd Mohns","1921-01-01T00:00:00+02:00","1921-07-31","","{Ontario|Petawawa|Canada}",1921-07-31
+"325","Frank Dunster","1921-01-01T00:00:00+02:00","1921-03-24","male","{Ontario|Ottawa|Canada}",1921-03-24
+"326","Frank Eddolls","1921-01-01T00:00:00+02:00","1921-07-05","","{Lachine Quebec|Canada|Quebec}",1921-07-05
+"327","Maurice Richard","1921-01-01T00:00:00+02:00","1921-08-04","male","{Canada|Montreal|Quebec}",1921-08-04
+"328","Norm McAtee","1921-01-01T00:00:00+02:00","1921-06-28","male","{Ontario|Canada|Stratford Ontario}",1921-06-28
+"329","Hubert Brooks","1921-01-01T00:00:00+02:00","1921-12-29","male","{Alberta|Canada|Bluesky Alberta}",1921-12-29
+"330","Johnny Quilty","1921-01-01T00:00:00+02:00","1921-01-21","male","{Ontario|Ottawa|Canada}",1921-01-21
+"331","Ken Reardon","1921-01-01T00:00:00+02:00","1921-04-01","male","{Manitoba|Winnipeg|Canada}",1921-04-01
+"332","Hal Laycoe","1922-01-01T00:00:00+02:00","1922-06-23","male","{Saskatchewan|Sutherland Saskatoon|Canada}",1922-06-23
+"333","Roy Forbes (ice hockey)","1922-01-01T00:00:00+02:00","1922-04-06","male","{Manitoba|Portage la Prairie|Canada}",1922-04-06
+"334","Steve Wojciechowski (ice hockey)","1922-01-01T00:00:00+02:00","1922-12-25","male","{Ontario|Canada|Fort William Ontario}",1922-12-25
+"335","James Jamieson (ice hockey)","1922-01-01T00:00:00+02:00","1922-03-21","","{Ontario|Brantford|Canada}",1922-03-21
+"336","Joe Klukay","1922-01-01T00:00:00+02:00","1922-11-06","male","{Ontario|Canada|Sault Ste. Marie Ontario}",1922-11-06
+"337","Alex Ritson","1922-01-01T00:00:00+02:00","1922-03-07","","{Alberta|Canada|Peace River Alberta}",1922-03-07
+"338","George Gee (ice hockey)","1922-01-01T00:00:00+02:00","1922-06-28","male","{Ontario|Canada|Stratford Ontario}",1922-06-28
+"339","Andy Branigan","1922-01-01T00:00:00+02:00","1922-04-11","","{Manitoba|Winnipeg|Canada}",1922-04-11
+"340","Leo Reise Jr.","1922-01-01T00:00:00+02:00","1922-06-07","male","{Ontario|Canada|Stoney Creek Ontario}",1922-06-07
+"341","Melvin Read","1922-01-01T00:00:00+02:00","1922-04-10","","{Canada|Montreal|Quebec}",1922-04-10
+"342","Howard Riopelle","1922-01-01T00:00:00+02:00","1922-01-30","male","{Ontario|Ottawa|Canada}",1922-01-30
+"343","Clare Martin (ice hockey)","1922-01-01T00:00:00+02:00","1922-02-25","male","{Ontario|Waterloo Ontario|Canada}",1922-02-25
+"344","Pete Horeck","1923-01-01T00:00:00+02:00","1923-06-15","male","{Ontario|Sables-Spanish Rivers|Canada}",1923-06-15
+"345","Don Morrison (ice hockey)","1923-01-01T00:00:00+02:00","1923-07-14","","{Saskatchewan|Saskatoon|Canada}",1923-07-14
+"346","Doug Adam","1923-01-01T00:00:00+02:00","1923-09-07","male","{Ontario|Toronto|Canada}",1923-09-07
+"347","Tony Leswick","1923-01-01T00:00:00+02:00","1923-03-17","male","{Saskatchewan|Canada|Humboldt Saskatchewan}",1923-03-17
+"348","Harry Watson (ice hockey born 1923)","1923-01-01T00:00:00+02:00","1923-05-06","","{Saskatchewan|Saskatoon|Canada}",1923-05-06
+"349","Hec Highton","1923-01-01T00:00:00+02:00","1923-12-10","male","{Alberta|Medicine Hat|Canada}",1923-12-10
+"350","Larry Kwong","1923-01-01T00:00:00+02:00","1923-06-17","male","{British Columbia|Vernon British Columbia|Canada}",1923-06-17
+"351","Marcel Fillion","1923-01-01T00:00:00+02:00","1923-05-28","","{Thetford Mines|Canada|Quebec}",1923-05-28
+"352","Ed Nicholson","1923-01-01T00:00:00+02:00","1923-09-09","","{Ontario|Canada|Portsmouth Kingston}",1923-09-09
+"353","Joe Bell","1923-01-01T00:00:00+02:00","1923-11-27","male","{Manitoba|Portage la Prairie|Canada}",1923-11-27
+"354","Alex Nicholson","1923-01-01T00:00:00+02:00","1923-05-17","male","{Manitoba|Winnipeg|Canada}",1923-05-17
+"355","Bob McDonald (ice hockey)","1923-01-01T00:00:00+02:00","1923-01-04","male","{Ontario|Toronto|Canada}",1923-01-04
+"356","Walt Atanas","1923-01-01T00:00:00+02:00","1923-12-22","male","{Hamilton Ontario|Ontario|Canada}",1923-12-22
+"357","Andy Barbe","1923-01-01T00:00:00+02:00","1923-07-27","","{Ontario|Nickel Centre|Canada}",1923-07-27
+"358","Francis Kane (ice hockey)","1923-01-01T00:00:00+02:00","1923-01-19","male","{Ontario|Canada|Stratford Ontario}",1923-01-19
+"359","Frank Bennett (ice hockey)","1923-01-01T00:00:00+02:00","1923-03-04","male","{Ontario|Toronto|Canada}",1923-03-04
+"360","Nels Podolsky","1923-01-01T00:00:00+02:00","1923-12-18","male","{Manitoba|Winnipeg|Canada}",1923-12-18
+"361","Chuck Scherza","1923-01-01T00:00:00+02:00","1923-02-15","male","{Manitoba|Brandon Manitoba|Canada}",1923-02-15
+"362","Keith Allen (ice hockey)","1923-01-01T00:00:00+02:00","1923-08-21","male","{Saskatchewan|Saskatoon|Canada}",1923-08-21
+"363","Jack Gelineau","1924-01-01T00:00:00+02:00","1924-11-11","","{Ontario|Toronto|Canada}",1924-11-11
+"364","Jack Schmidt","1924-01-01T00:00:00+02:00","1924-11-11","male","{Saskatchewan|Canada|Odessa Saskatchewan}",1924-11-11
+"365","Doug Harvey (ice hockey)","1924-01-01T00:00:00+02:00","1924-12-19","male","{Canada|Montreal|Quebec}",1924-12-19
+"366","Doug Jackson (ice hockey)","1924-01-01T00:00:00+02:00","1924-12-12","","{Manitoba|Winnipeg|Canada}",1924-12-12
+"367","Doug Stevenson","1924-01-01T00:00:00+02:00","1924-04-06","male","{Saskatchewan|Regina Saskatchewan|Canada}",1924-04-06
+"368","Stan Kemp","1924-01-01T00:00:00+02:00","1924-03-02","","{Hamilton Ontario|Ontario|Canada}",1924-03-02
+"369","Mark Marquess (ice hockey)","1924-01-01T00:00:00+02:00","1924-03-26","male","{Alberta|Bassano Alberta|Canada}",1924-03-26
+"370","Dudley Garrett","1924-01-01T00:00:00+02:00","1924-07-24","male","{Ontario|Toronto|Canada}",1924-07-24
+"371","Pat Lundy","1924-01-01T00:00:00+02:00","1924-05-21","","{Saskatchewan|Saskatoon|Canada}",1924-05-21
+"372","Ralph Almas","1924-01-01T00:00:00+02:00","1924-04-26","male","{Saskatchewan|Saskatoon|Canada}",1924-04-26
+"373","David Bauer (ice hockey)","1924-01-01T00:00:00+02:00","1924-11-02","male","{Kitchener Ontario|Canada}",1924-11-02
+"374","Gerry Plamondon","1924-01-01T00:00:00+02:00","1924-01-05","male","{Canada|Sherbrooke|Quebec}",1924-01-05
+"375","Bill Glennie","1924-01-01T00:00:00+02:00","1924-03-14","male","{Manitoba|Portage la Prairie|Canada}",1924-03-14
+"376","Bud Poile","1924-01-01T00:00:00+02:00","1924-02-10","","{Ontario|Canada|Fort William Ontario}",1924-02-10
+"377","Cal Gardner","1924-01-01T00:00:00+02:00","1924-10-30","male","{Manitoba|Canada|Transcona Winnipeg}",1924-10-30
+"378","Les Strongman","1924-01-01T00:00:00+02:00","1924-08-23","","{Winnipeg|Canada}",1924-08-23
+"379","Frank Mathers","1924-01-01T00:00:00+02:00","1924-03-29","male","{Manitoba|Winnipeg|Canada}",1924-03-29
+"380","Max Labovitch","1924-01-01T00:00:00+02:00","1924-01-18","male","{Manitoba|Winnipeg|Canada}",1924-01-18
+"381","Max McNab","1924-01-01T00:00:00+02:00","1924-06-21","male","{Saskatchewan|Watson Saskatchewan|Canada}",1924-06-21
+"382","Johnny Bower","1924-01-01T00:00:00+02:00","1924-11-08","","{Saskatchewan|Prince Albert Saskatchewan|Canada}",1924-11-08
