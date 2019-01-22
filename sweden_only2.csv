@@ -1,0 +1,986 @@
+name,birthYear,birthDate,gender,birthplace
+Erik Larsson (ice hockey),1905-01-01T00:00:00+02:00,1905-01-18,male,{Stockholm|Sweden}
+Emil Bergman,1908-01-01T00:00:00+02:00,1908-07-28,,{Sweden|Gävle Municipality}
+Gus Forslund,1908-01-01T00:00:00+02:00,1908-04-25,male,{Sweden|Umeå}
+Erik Johansson (ice hockey),1927-01-01T00:00:00+02:00,1927-09-29,male,{Sweden|Södertälje}
+Stig Andersson-Tvilling,1928-01-01T00:00:00+02:00,1928-07-15,male,{Sweden|Bromma}
+Roland Stoltz (ice hockey b. 1931),1931-01-01T00:00:00+02:00,1931-08-01,,{Stockholm|Sweden}
+Lars Björn,1931-01-01T00:00:00+02:00,1931-12-16,male,{Stockholm|Sweden}
+Sven Tumba,1931-01-01T00:00:00+02:00,1931-08-27,male,{Stockholm|Sweden}
+Hans Mild,1934-01-01T00:00:00+02:00,1934-07-31,,{Stockholm|Sweden}
+Lars-Eric Lundvall,1934-01-01T00:00:00+02:00,1934-04-03,,{Sweden|Karlskoga}
+Ronald Pettersson,1935-01-01T00:00:00+02:00,1935-04-16,male,{Sweden|Surahammar}
+Anders Andersson (ice hockey),1937-01-01T00:00:00+02:00,1937-01-02,male,{Sweden|Skellefteå}
+Kjell Svensson,1938-01-01T00:00:00+02:00,1938-09-10,,{Sweden|Södertälje}
+Bert-Olov Nordlander,1938-01-01T00:00:00+02:00,1938-08-12,male,{Sweden|Sundsvall}
+Carl-Göran Öberg,1938-01-01T00:00:00+02:00,1938-12-24,male,{Sweden|Valbo}
+Ulf Sterner,1941-01-01T00:00:00+02:00,1941-02-11,male,{Sweden|Deje}
+Anders Parmström,1942-01-01T00:00:00+02:00,1942-02-16,,{Stockholm|Sweden}
+Leif Holmqvist,1942-01-01T00:00:00+02:00,1942-11-12,male,{Sweden|Gävle}
+Håkan Wickberg,1943-01-01T00:00:00+02:00,1943-02-03,male,{Sweden|Gävle}
+Leif Henriksson,1943-01-01T00:00:00+02:00,1943-12-26,male,{Sweden|Karlskoga}
+Lars-Erik Sjöberg,1944-01-01T00:00:00+02:00,1944-05-04,male,{Sweden|Falun}
+Lars-Göran Nilsson,1944-01-01T00:00:00+02:00,1944-03-09,male,{Sweden|Vuollerim}
+Lennart Svedberg,1944-01-01T00:00:00+02:00,1944-02-29,male,{Sweden|Timrå}
+Tord Lundström,1945-01-01T00:00:00+02:00,1945-03-04,male,{Sweden|Kiruna}
+Henric Hedlund,1945-01-01T00:00:00+02:00,1945-04-07,male,{Sweden|Skellefteå Municipality}
+Thommie Bergman,1947-01-01T00:00:00+02:00,1947-12-10,male,{Sweden|Munkfors|Monkfors}
+Thommy Abrahamsson,1947-01-01T00:00:00+02:00,1947-04-08,male,{Sweden|Umeå}
+Stig Larsson (ice hockey),1947-01-01T00:00:00+02:00,1947-11-22,male,{Sweden|Nacka}
+Hardy Nilsson,1947-01-01T00:00:00+02:00,1947-06-23,male,{Sweden|Skellefteå}
+Mats Åhlberg,1947-01-01T00:00:00+02:00,1947-05-16,male,{Sweden|Avesta Municipality}
+Mats Lindh,1947-01-01T00:00:00+02:00,1947-09-12,male,{Sweden|Orsa}
+Christer Abris,1947-01-01T00:00:00+02:00,1947-04-08,male,{Sweden|Umeå}
+Stig Östling,1948-01-01T00:00:00+02:00,1948-12-31,male,Sweden
+Inge Hammarström,1948-01-01T00:00:00+02:00,1948-01-20,male,{Sweden|Sundsvall}
+Dan Söderström,1948-01-01T00:00:00+02:00,1948-04-05,male,{Sweden|Horndal}
+Lars-Erik Esbjörs,1949-01-01T00:00:00+02:00,1949-11-11,,{Avesta|Sweden}
+Leif Boork,1949-01-01T00:00:00+02:00,1949-07-03,male,{Stockholm|Sweden}
+Per-Olov Brasar,1950-01-01T00:00:00+02:00,1950-09-30,male,{Sweden|Falun}
+Per Bäckman,1950-01-01T00:00:00+02:00,1950-07-22,male,{Sweden|Surahammar}
+Rolf Edberg,1950-01-01T00:00:00+02:00,1950-09-29,male,{Stockholm|Sweden}
+Ulf Nilsson (ice hockey),1950-01-01T00:00:00+02:00,1950-05-11,male,{Sweden|Nynäshamn Municipality}
+Ove Karlsson (ice hockey),1950-01-01T00:00:00+02:00,1950-07-09,,{Sweden|Gusum}
+Peter Helander,1951-01-01T00:00:00+02:00,1951-12-04,,{Stockholm|Sweden}
+Hardy Åström,1951-01-01T00:00:00+02:00,1951-03-29,,{Sweden|Luleå}
+Börje Salming,1951-01-01T00:00:00+02:00,1951-04-17,male,{Sweden|Kiruna}
+Anders Hedberg,1951-01-01T00:00:00+02:00,1951-02-25,,{Sweden|Örnsköldsvik}
+Willy Lindström,1951-01-01T00:00:00+02:00,1951-05-05,male,{Sweden|Grums Municipality}
+Dan Labraaten,1951-01-01T00:00:00+02:00,1951-06-09,male,{Sweden|Arvika}
+Kent-Erik Andersson,1951-01-01T00:00:00+02:00,1951-05-24,,{Sweden|Örebro}
+Lars Lindgren,1952-01-01T00:00:00+02:00,1952-10-12,male,{Sweden|Piteå}
+Bob Nystrom,1952-01-01T00:00:00+02:00,1952-10-10,male,{Stockholm|Sweden}
+Anders Broström,1952-01-01T00:00:00+02:00,1952-09-18,male,{Sweden|Ronneby}
+Anders Kallur,1952-01-01T00:00:00+02:00,1952-07-06,male,{Sweden|Ludvika}
+Martin Karlsson,1952-01-01T00:00:00+02:00,1952-04-26,male,{Sweden|Skellefteå}
+Lars Zetterström,1953-01-01T00:00:00+02:00,1953-11-06,,{Stockholm|Sweden}
+Pär Mårts,1953-01-01T00:00:00+02:00,1953-04-30,,{Sweden|Falun}
+Leif Holmgren,1953-01-01T00:00:00+02:00,1953-05-25,,{Sweden|Kiruna}
+Göran Högosta,1954-01-01T00:00:00+02:00,1954-04-15,male,{Sweden|Äppelbo}
+Roland Eriksson,1954-01-01T00:00:00+02:00,1954-03-01,,{Sweden|Borlänge Municipality}
+Sören Johansson,1954-01-01T00:00:00+02:00,1954-07-11,male,Sweden
+Ulf Isaksson,1954-01-01T00:00:00+02:00,1954-03-19,male,{Sweden|Rosersberg}
+Stefan Persson (ice hockey),1954-01-01T00:00:00+02:00,1954-12-22,male,{Sweden|Bjurholm}
+Bengt Lundholm,1955-01-01T00:00:00+02:00,1955-08-04,,{Sweden|Falun}
+Bo Berglund,1955-01-01T00:00:00+02:00,1955-04-06,male,{Sweden|Ångermanland}
+Jörgen Pettersson (ice hockey),1956-01-01T00:00:00+02:00,1956-07-11,male,{Gothenburg|Sweden}
+Thomas Gradin,1956-01-01T00:00:00+02:00,1956-02-18,male,{Sweden|Sollefteå}
+Göran Lindblom,1956-01-01T00:00:00+02:00,1956-03-04,male,Sweden
+Peter Lindmark,1956-01-01T00:00:00+02:00,1956-11-08,male,{Sweden|Kiruna}
+Roger Melin,1956-01-01T00:00:00+02:00,1956-04-25,male,{Sweden|Enköping}
+Lars Molin (ice hockey),1956-01-01T00:00:00+02:00,1956-05-07,male,{Sweden|Örnsköldsvik}
+Björn Johansson,1956-01-01T00:00:00+02:00,1956-01-15,male,{Sweden|Örebro}
+Anders Håkansson,1956-01-01T00:00:00+02:00,1956-04-27,male,{Sweden|Munkfors}
+Kent Johansson,1956-01-01T00:00:00+02:00,1956-04-13,,{Sweden|Katrineholm}
+Kent Nilsson,1956-01-01T00:00:00+02:00,1956-08-31,male,{Sweden|Nynäshamn}
+Thomas Hedin,1957-01-01T00:00:00+02:00,1957-07-05,,Sweden
+Peter Loob,1957-01-01T00:00:00+02:00,1957-07-23,male,{Visby|Sweden}
+Hans Särkijärvi,1957-01-01T00:00:00+02:00,1957-03-03,male,{Sweden|Kiruna}
+Harald Lückner,1957-01-01T00:00:00+02:00,1957-03-27,male,{Sweden|Mariestad}
+Anders Karlsson (ice hockey),1957-01-01T00:00:00+02:00,1957-08-05,,Sweden
+Per-Erik Johnsson,1958-01-01T00:00:00+02:00,1958-12-04,male,{Sweden|Karlstad}
+Peter Gustavsson,1958-01-01T00:00:00+02:00,1958-03-30,male,{Sweden|Bollebygd}
+Rolf Ridderwall,1958-01-01T00:00:00+02:00,1958-11-20,male,Sweden
+Tomas Nord,1958-01-01T00:00:00+02:00,1958-07-18,male,{Sweden|Vetlanda Municipality}
+Kjell Samuelsson,1958-01-01T00:00:00+02:00,1958-10-18,male,{Sweden|Tingsryd}
+Jan Eriksson (ice hockey),1958-01-01T00:00:00+02:00,1958-01-14,,{Sweden|Sollefteå}
+Janne Karlsson (ice hockey b. 1958),1958-01-01T00:00:00+02:00,1958-08-28,male,{Sweden|Växjö}
+Bengt-Åke Gustafsson,1958-01-01T00:00:00+02:00,1958-03-23,male,{Sweden|Karlskoga}
+Bo Ericson (ice hockey),1958-01-01T00:00:00+02:00,1958-01-23,male,{Stockholm|Sweden}
+Mats Hallin,1958-01-01T00:00:00+02:00,1958-03-09,male,{Sweden|Eskilstuna}
+Christer Kellgren,1958-01-01T00:00:00+02:00,1958-08-15,male,{Gothenburg|Sweden}
+Thomas Eriksson (ice hockey),1959-01-01T00:00:00+02:00,1959-10-16,male,{Stockholm|Sweden}
+Håkan Södergren,1959-01-01T00:00:00+02:00,1959-06-14,,{Sweden|Rosersberg}
+Pelle Lindbergh,1959-01-01T00:00:00+02:00,1959-05-24,,{Stockholm|Sweden}
+Mikael Andersson (ice hockey born 1959),1959-01-01T00:00:00+02:00,1959-07-06,male,{Sweden|Jukkasjärvi}
+Stephan Lundh,1959-01-01T00:00:00+02:00,1959-11-06,male,{Stockholm|Sweden}
+Stephen Foyn,1959-01-01T00:00:00+02:00,1959-06-23,male,{Sweden|Karlstad}
+Mats Näslund,1959-01-01T00:00:00+02:00,1959-10-31,male,{Sweden|Timrå}
+Håkan Loob,1960-01-01T00:00:00+02:00,1960-07-03,male,{Visby|Sweden}
+Göran Sjöberg,1960-01-01T00:00:00+02:00,1960-06-08,male,Sweden
+Tomas Jonsson,1960-01-01T00:00:00+02:00,1960-04-12,male,{Sweden|Falun}
+Tommy Samuelsson,1960-01-01T00:00:00+02:00,1960-01-12,male,{Sweden|Degerfors}
+Lars-Gunnar Pettersson,1960-01-01T00:00:00+02:00,1960-04-08,male,{Sweden|Luleå}
+Anders Carlsson,1960-01-01T00:00:00+02:00,1960-11-25,male,{Sweden|Gävle}
+Anders Eldebrink,1960-01-01T00:00:00+02:00,1960-12-11,male,{Sweden|Morjärv}
+Patrik Sundström,1961-01-01T00:00:00+02:00,1961-12-14,,{Sweden|Skellefteå}
+Roger Hägglund,1961-01-01T00:00:00+02:00,1961-07-02,,{Sweden|Umeå}
+Michael Thelvén,1961-01-01T00:00:00+02:00,1961-01-07,,{Stockholm|Sweden}
+Lars Eriksson (ice hockey),1961-01-01T00:00:00+02:00,1961-04-16,,Sweden
+Jan Ingman,1961-01-01T00:00:00+02:00,1961-11-25,,{Sweden|Grums}
+Martin Pettersson,1961-01-01T00:00:00+02:00,1961-01-19,,Sweden
+Peter Åslin,1962-01-01T00:00:00+02:00,1962-09-21,,{Sweden|Norrtälje}
+Peter Andersson (ice hockey b. 1962),1962-01-01T00:00:00+02:00,1962-03-02,,{Stockholm|Sweden}
+Peter Nilsson,1962-01-01T00:00:00+02:00,1962-06-10,male,{Stockholm|Sweden}
+Jan Erixon,1962-01-01T00:00:00+02:00,1962-07-08,male,{Sweden|Skellefteå}
+Robert Nordmark,1962-01-01T00:00:00+02:00,1962-08-20,male,{Sweden|Luleå}
+Jens Öhling,1962-01-01T00:00:00+02:00,1962-04-03,male,{Sweden|Nacka}
+Mats Lusth,1962-01-01T00:00:00+02:00,1962-05-20,male,Sweden
+Jonas Bergqvist,1962-01-01T00:00:00+02:00,1962-09-26,,{Sweden|Hässleholm}
+Thomas Ljungbergh,1963-01-01T00:00:00+02:00,1963-02-19,male,Sweden
+Magnus Roupé,1963-01-01T00:00:00+02:00,1963-03-23,male,{Stockholm|Sweden}
+Magnus Svensson (ice hockey b. 1963),1963-01-01T00:00:00+02:00,1963-03-01,male,{Sweden|Tranås}
+Pelle Eklund,1963-01-01T00:00:00+02:00,1963-03-22,,{Solna Municipality|Sweden}
+Peter Madach,1963-01-01T00:00:00+02:00,1963-02-26,male,Sweden
+Michael Hjälm,1963-01-01T00:00:00+02:00,1963-03-23,male,{Stockholm|Sweden}
+Kjell Dahlin,1963-01-01T00:00:00+02:00,1963-03-02,male,{Sweden|Timrå}
+Niklas Wikegård,1963-01-01T00:00:00+02:00,1963-10-03,male,{Sweden|Gävle}
+Mikael Lindholm,1964-01-01T00:00:00+02:00,1964-12-19,,{Sweden|Gävle}
+Tommy Albelin,1964-01-01T00:00:00+02:00,1964-05-21,,{Stockholm|Sweden}
+Tommy Lehmann,1964-01-01T00:00:00+02:00,1964-02-03,male,{Stockholm|Sweden}
+Ulf Samuelsson,1964-01-01T00:00:00+02:00,1964-03-26,male,{Sweden|Fagersta}
+Jan Viktorsson,1964-01-01T00:00:00+02:00,1964-07-27,male,{Stockholm|Sweden}
+Janne Karlsson (ice hockey b. 1964),1964-01-01T00:00:00+02:00,1964-05-30,,{Sweden|Kiruna}
+Thomas Östlund,1965-01-01T00:00:00+02:00,1965-09-09,,{Stockholm|Sweden}
+Peter Andersson (ice hockey b. 1965),1965-01-01T00:00:00+02:00,1965-08-29,male,{Sweden|Örebro|%C3%96rebr%C3%B6}
+Peter Berndtsson,1965-01-01T00:00:00+02:00,1965-01-28,male,{Sweden|Grums}
+Peter Eriksson (ice hockey),1965-01-01T00:00:00+02:00,1965-07-12,male,{Sweden|Kramfors}
+Tommy Melkersson,1965-01-01T00:00:00+02:00,1965-02-01,,Sweden
+Tommy Sjödin,1965-01-01T00:00:00+02:00,1965-08-13,,{Sweden|Timrå Municipality}
+Stefan Larsson,1965-01-01T00:00:00+02:00,1965-06-14,male,{Sweden|Ludvika}
+Jan Larsson,1965-01-01T00:00:00+02:00,1965-09-04,,{Sweden|Långshyttan}
+Charles Berglund,1965-01-01T00:00:00+02:00,1965-01-18,,{Stockholm|Sweden}
+Kenneth Kennholt,1965-01-01T00:00:00+02:00,1965-01-13,male,{Sweden|Södertälje}
+Håkan Algotsson,1966-01-01T00:00:00+02:00,1966-08-05,male,{Tyringe|Sweden}
+Fredrik Olausson,1966-01-01T00:00:00+02:00,1966-10-05,male,{Sweden|D%C3%A4desj%C3%B6}
+Fredrik Stillman,1966-01-01T00:00:00+02:00,1966-08-22,,{Sweden|Jönköping}
+Patrik Sylvegård,1966-01-01T00:00:00+02:00,1966-06-10,male,{Sweden|Örebro}
+Peter Karlsson (ice hockey),1966-01-01T00:00:00+02:00,1966-02-17,,{Sweden|Lundby}
+Mikael Andersson (ice hockey born 1966),1966-01-01T00:00:00+02:00,1966-05-10,male,{Malmö|Sweden}
+Mikael Johansson (ice hockey born 1966),1966-01-01T00:00:00+02:00,1966-06-12,male,{Sweden|Huddinge Municipality}
+Robert Burakovsky,1966-01-01T00:00:00+02:00,1966-11-24,male,{Malmö|Sweden}
+Christian Due-Boje,1966-01-01T00:00:00+02:00,1966-10-12,male,Sweden
+Peter Hagström,1967-01-01T00:00:00+02:00,1967-04-04,male,{Sweden|Grums}
+Roger Åkerström,1967-01-01T00:00:00+02:00,1967-04-05,,{Sweden|Överkalix}
+Roger Hansson,1967-01-01T00:00:00+02:00,1967-07-13,male,{Sweden|Helsingborg}
+Roger Johansson,1967-01-01T00:00:00+02:00,1967-04-17,male,{Sweden|Ljungby}
+Ulf Dahlén,1967-01-01T00:00:00+02:00,1967-01-21,,{Sweden|Östersund}
+Kyösti Karjalainen,1967-01-01T00:00:00+02:00,1967-06-19,male,{Sweden|Gävle}
+Pär Edlund,1967-01-01T00:00:00+02:00,1967-04-09,male,{Sweden|Nynäshamn}
+Bengt Åkerblom,1967-01-01T00:00:00+02:00,1967-05-02,,Sweden
+Calle Johansson,1967-01-01T00:00:00+02:00,1967-02-14,male,{Gothenburg|Sweden}
+Jonas Heed,1967-01-01T00:00:00+02:00,1967-01-03,male,{Sweden|Västerås}
+Kent Norberg,1967-01-01T00:00:00+02:00,1967-06-12,male,{Sweden|Härnösand}
+Thomas Sjögren,1968-01-01T00:00:00+02:00,1968-06-08,male,{Gothenburg|Sweden}
+Patrik Carnbäck,1968-01-01T00:00:00+02:00,1968-02-01,,{Gothenburg|Sweden}
+Per-Johan Johansson,1968-01-01T00:00:00+02:00,1968-03-31,,Sweden
+Per Lundell,1968-01-01T00:00:00+02:00,1968-06-29,male,{Sweden|Mariestad}
+Tomas Forslund,1968-01-01T00:00:00+02:00,1968-11-24,male,{Sweden|Falun}
+Johan Garpenlöv,1968-01-01T00:00:00+02:00,1968-03-21,male,{Stockholm|Sweden}
+Olie Sundström,1968-01-01T00:00:00+02:00,1968-04-24,,{Sweden|Änge|Ånge}
+Pär Djoos,1968-01-01T00:00:00+02:00,1968-05-11,male,{Sweden|Mora Sweden}
+Peter Popovic,1968-01-01T00:00:00+02:00,1968-02-10,,{Sweden|Köping Municipality}
+Rikard Franzén,1968-01-01T00:00:00+02:00,1968-03-21,male,{Sweden|Huddinge Municipality}
+Leif Rohlin,1968-01-01T00:00:00+02:00,1968-02-26,male,{Sweden|Västerås}
+Jörgen Wännström,1969-01-01T00:00:00+02:00,1969-01-29,male,Sweden
+Patric Kjellberg,1969-01-01T00:00:00+02:00,1969-06-17,male,{Trelleborg|Sweden}
+Patrik Erickson,1969-01-01T00:00:00+02:00,1969-03-13,male,Sweden
+Peter Hammarström,1969-01-01T00:00:00+02:00,1969-03-23,male,{Stockholm|Sweden}
+Stefan Örnskog,1969-01-01T00:00:00+02:00,1969-04-04,,{Sweden|Jönköping}
+Ricard Persson,1969-01-01T00:00:00+02:00,1969-08-24,,{Sweden|Östersund}
+Petri Liimatainen,1969-01-01T00:00:00+02:00,1969-07-20,,{Sweden|Hässelby-Vällingby}
+Niklas Eriksson,1969-01-01T00:00:00+02:00,1969-02-17,male,{Sweden|Västervik}
+Patrik Juhlin,1970-01-01T00:00:00+02:00,1970-04-24,male,{Sweden|Huddinge Municipality}
+Per Eklund (ice hockey),1970-01-01T00:00:00+02:00,1970-07-09,male,{Sweden|Sollentuna Municipality}
+Per Gustafsson,1970-01-01T00:00:00+02:00,1970-06-06,male,{Sweden|Oskarshamn}
+Ronnie Sundin,1970-01-01T00:00:00+02:00,1970-10-03,male,{Sweden|Ludvika}
+Mika Välilä,1970-01-01T00:00:00+02:00,1970-02-28,,{Sweden|Södertälje}
+Henrik Nilsson (ice hockey b. 1970),1970-01-01T00:00:00+02:00,1970-01-10,male,{Sweden|Salem Sweden}
+Jan Mertzig,1970-01-01T00:00:00+02:00,1970-07-18,male,{Sweden|Huddinge Municipality}
+Pär Mikaelsson,1970-01-01T00:00:00+02:00,1970-03-05,male,Sweden
+Daniel Rydmark,1970-01-01T00:00:00+02:00,1970-02-23,male,{Sweden|Västerås}
+Joacim Esbjörs,1970-01-01T00:00:00+02:00,1970-07-04,male,{Gothenburg|Sweden}
+Nicklas Lidström,1970-01-01T00:00:00+02:00,1970-04-28,male,{Avesta|Sweden men's national ice hockey team|Sweden|Krylbo}
+Christer Olsson,1970-01-01T00:00:00+02:00,1970-07-24,male,{Sweden|Arboga}
+Jonas Johnson,1970-01-01T00:00:00+02:00,1970-03-23,male,{Sweden|Gävle}
+Erik Andersson (ice hockey born 1971),1971-01-01T00:00:00+02:00,1971-08-19,,{Stockholm|Sweden}
+Thomas Rhodin,1971-01-01T00:00:00+02:00,1971-04-08,,{Sweden|Karlstad}
+Magnus Arvedson,1971-01-01T00:00:00+02:00,1971-11-25,male,{Sweden|Karlstad}
+Roger Rönnberg,1971-01-01T00:00:00+02:00,1971-07-27,male,{Sweden|Luleå}
+Ronnie Pettersson,1971-01-01T00:00:00+02:00,1971-03-06,,{Sweden|Vantör}
+Tommy Salo,1971-01-01T00:00:00+02:00,1971-02-01,male,{Sweden|Surahammar}
+Marcus Ragnarsson,1971-01-01T00:00:00+02:00,1971-08-13,male,{Sweden|Östervåla}
+Johan Lindbom,1971-01-01T00:00:00+02:00,1971-07-08,male,{Sweden|Alvesta}
+Ove Molin,1971-01-01T00:00:00+02:00,1971-05-27,,{Sweden|Huddinge Municipality}
+Mats Sundin,1971-01-01T00:00:00+02:00,1971-02-13,male,{Stockholm|Sweden|Bromma}
+Nichlas Falk,1971-01-01T00:00:00+02:00,1971-02-03,male,{Stockholm|Sweden}
+Niklas Andersson,1971-01-01T00:00:00+02:00,1971-05-20,male,{Sweden|Kungälv}
+Jörgen Jönsson,1972-01-01T00:00:00+02:00,1972-09-29,male,{Sweden|Ängelholm}
+Michael Nylander,1972-01-01T00:00:00+02:00,1972-10-03,,{Stockholm|Sweden}
+Mikael Lind,1972-01-01T00:00:00+02:00,1972-02-20,,{Sweden|Gävle}
+Mikael Renberg,1972-01-01T00:00:00+02:00,1972-05-05,male,{Sweden|Piteå|Djupviken}
+Stefan Bemström,1972-01-01T00:00:00+02:00,1972-03-01,,{Sweden|Södertälje}
+Marcus Vinnerborg,1972-01-01T00:00:00+02:00,1972-08-08,,{Sweden|Ljungby}
+Johan Åkerman,1972-01-01T00:00:00+02:00,1972-11-20,,{Stockholm|Sweden}
+Johan Witehall,1972-01-01T00:00:00+02:00,1972-01-07,male,{Gothenburg|Sweden}
+Oscar Ackeström,1972-01-01T00:00:00+02:00,1972-11-29,male,{Gothenburg|Sweden}
+Björn Nord,1972-01-01T00:00:00+02:00,1972-04-05,male,{Sweden|Huddinge Municipality}
+Andreas Dackell,1972-01-01T00:00:00+02:00,1972-12-29,male,{Sweden|Gävle}
+Mattias Norström,1972-01-01T00:00:00+02:00,1972-01-02,male,{Stockholm|Sweden}
+Christian Lechtaler,1972-01-01T00:00:00+02:00,1972-02-10,,{Gothenburg|Sweden}
+Daniel Alfredsson,1972-01-01T00:00:00+02:00,1972-12-11,male,{Gothenburg|Sweden}
+Jonas Höglund,1972-01-01T00:00:00+02:00,1972-08-29,,{Sweden|Karlstad}
+Magnus Eriksson (ice hockey),1973-01-01T00:00:00+02:00,1973-08-12,male,{Stockholm|Sweden}
+Magnus Johansson (ice hockey),1973-01-01T00:00:00+02:00,1973-09-04,male,{Sweden|Linköping}
+Magnus Wernblom,1973-01-01T00:00:00+02:00,1973-02-03,male,{Sweden|Kramfors}
+Fredrik Bremberg,1973-01-01T00:00:00+02:00,1973-06-21,male,{Sweden|Södertälje Municipality}
+Peter Forsberg,1973-01-01T00:00:00+02:00,1973-07-20,,{Sweden|Örnsköldsvik}
+Tomas Holmström,1973-01-01T00:00:00+02:00,1973-01-23,male,{Sweden|Piteå}
+Hans Jonsson,1973-01-01T00:00:00+02:00,1973-08-02,,{Sweden|Örnsköldsvik}
+Markus Näslund,1973-01-01T00:00:00+02:00,1973-07-30,male,{Sweden|Örnsköldsvik}
+Johan Hedberg,1973-01-01T00:00:00+02:00,1973-05-05,male,{Sweden|Leksand|Nacka}
+Andreas Johansson (ice hockey),1973-01-01T00:00:00+02:00,1973-05-19,male,{Sweden|Hofors}
+Andreas Pihl,1973-01-01T00:00:00+02:00,1973-02-25,,{Uppsala|Sweden}
+Andreas Salomonsson,1973-01-01T00:00:00+02:00,1973-12-19,,{Sweden|Örnsköldsvik}
+Mathias Olsson,1973-01-01T00:00:00+02:00,1973-04-23,male,{Sweden|Tingsryd}
+Niclas Hävelid,1973-01-01T00:00:00+02:00,1973-04-12,male,{Stockholm|Sweden}
+Clas Eriksson,1973-01-01T00:00:00+02:00,1973-02-20,male,Sweden
+Jonas Esbjörs,1973-01-01T00:00:00+02:00,1973-11-01,male,{Gothenburg|Sweden}
+Jonas Rönnqvist,1973-01-01T00:00:00+02:00,1973-08-22,,{Sweden|Kalix}
+Jörgen Bemström,1974-01-01T00:00:00+02:00,1974-04-06,male,{Sweden|Södertälje}
+Fredrik Krekula,1974-01-01T00:00:00+02:00,1974-04-08,,{Sweden|Kiruna}
+Fredrik Modin,1974-01-01T00:00:00+02:00,1974-10-08,,{Sweden|Sundsvall}
+Mikael Håkanson,1974-01-01T00:00:00+02:00,1974-05-31,,{Sweden|Spånga}
+Tommy Westlund,1974-01-01T00:00:00+02:00,1974-12-29,,{Sweden|Fors (locality)}
+Jan Huokko,1974-01-01T00:00:00+02:00,1974-06-11,male,{Sweden|Värmdö}
+Peter Nordström,1974-01-01T00:00:00+02:00,1974-07-26,male,{Sweden|Munkfors}
+Robert Carlsson,1974-01-01T00:00:00+02:00,1974-07-02,,{Uppsala|Sweden}
+Bert Robertsson,1974-01-01T00:00:00+02:00,1974-06-30,male,{Sweden|Södertälje}
+Martin Lindman,1974-01-01T00:00:00+02:00,1974-03-27,male,{Uppsala|Sweden}
+Mathias Johansson (ice hockey),1974-01-01T00:00:00+02:00,1974-02-22,male,{Sweden|Oskarshamn}
+Mats Lindgren,1974-01-01T00:00:00+02:00,1974-10-01,male,{Sweden|Skellefteå}
+Mattias Livf,1974-01-01T00:00:00+02:00,1974-02-24,male,{Sweden|Östervåla}
+Mattias Timander,1974-01-01T00:00:00+02:00,1974-04-16,male,{Sweden|Sollefteå Municipality|Sollefteå}
+Christoffer Norgren,1974-01-01T00:00:00+02:00,1974-07-02,,{Sweden|Nordmaling}
+Daniel Glimmenvall,1974-01-01T00:00:00+02:00,1974-09-10,male,{Sweden|Glimåkra}
+Kenny Jönsson,1974-01-01T00:00:00+02:00,1974-10-06,,{Sweden|Ängelholm Municipality}
+Gunilla Andersson,1975-01-01T00:00:00+02:00,1975-04-26,female,{Sweden|Skutskär}
+Fredrik Oduya,1975-01-01T00:00:00+02:00,1975-05-31,male,{Stockholm|Sweden}
+Fredrik Svensson (ice hockey),1975-01-01T00:00:00+02:00,1975-04-13,,{Stockholm|Sweden}
+Pelle Prestberg,1975-01-01T00:00:00+02:00,1975-02-05,male,{Sweden|Karlstad}
+Per Svartvadet,1975-01-01T00:00:00+02:00,1975-05-17,male,{Sweden|Sollefteå}
+Peter Casparsson,1975-01-01T00:00:00+02:00,1975-03-14,,{Sweden|Falun}
+Dick Tärnström,1975-01-01T00:00:00+02:00,1975-01-20,male,{Sweden|Sundbyberg Municipality}
+Stefan Bergkvist,1975-01-01T00:00:00+02:00,1975-03-10,male,{Sweden|Leksand}
+Markus Matthiasson,1975-01-01T00:00:00+02:00,1975-11-16,male,{Uppsala|Sweden}
+Jan-Axel Alavaara,1975-01-01T00:00:00+02:00,1975-03-14,,{Sweden|Kiruna}
+P. J. Axelsson,1975-01-01T00:00:00+02:00,1975-02-26,male,{Sweden|Kungälv}
+Jesper Mattsson (ice hockey),1975-01-01T00:00:00+02:00,1975-05-13,male,{Malmö|Sweden}
+Anders Eriksson (ice hockey born 1975),1975-01-01T00:00:00+02:00,1975-01-09,,{Sweden|Bollnäs}
+Anders Söderberg,1975-01-01T00:00:00+02:00,1975-10-07,,{Sweden|Örnsköldsvik}
+Andreas Hadelöv,1975-01-01T00:00:00+02:00,1975-07-23,,{Sweden|Kiruna}
+Andreas Karlsson,1975-01-01T00:00:00+02:00,1975-08-19,,{Sweden|Ludvika}
+Andreas Lilja,1975-01-01T00:00:00+02:00,1975-07-13,male,{Sweden|Helsingborg}
+Mattias Remstam,1975-01-01T00:00:00+02:00,1975-01-25,,{Sweden|Nittorp}
+Niclas Wallin,1975-01-01T00:00:00+02:00,1975-02-20,,{Sweden men's national ice hockey team|Boden Sweden}
+Niklas Sundström,1975-01-01T00:00:00+02:00,1975-06-06,male,{Sweden|Örnsköldsvik}
+Conny Strömberg,1975-01-01T00:00:00+02:00,1975-11-10,male,{Sweden|Örnsköldsvik}
+Fredrik Emvall,1976-01-01T00:00:00+02:00,1976-06-28,male,{Sweden|Växjö}
+Peter Högardh,1976-01-01T00:00:00+02:00,1976-05-25,male,{Sweden|Sn%C3%B6storp}
+Mikael Gath,1976-01-01T00:00:00+02:00,1976-06-17,,{Sweden|Glumslöv}
+Mikael Gerdén,1976-01-01T00:00:00+02:00,1976-10-01,male,{Stockholm|Sweden}
+Mikael Samuelsson,1976-01-01T00:00:00+02:00,1976-12-23,male,{Mariefred|Sweden}
+Kristofer Ottosson,1976-01-01T00:00:00+02:00,1976-01-09,male,{Stockholm|Sweden|Skarpnäck (borough)}
+Johan Davidsson,1976-01-01T00:00:00+02:00,1976-01-06,male,{Sweden|Jönköping}
+Johan Molin,1976-01-01T00:00:00+02:00,1976-10-25,male,{Sweden|Nacka}
+Peter Nylander,1976-01-01T00:00:00+02:00,1976-01-20,male,{Stockholm|Sweden}
+Daniel Tjärnqvist,1976-01-01T00:00:00+02:00,1976-10-14,,{Sweden|Umeå}
+David Petrasek,1976-01-01T00:00:00+02:00,1976-02-01,,{Sweden|Jönköping}
+Joakim Eriksson,1976-01-01T00:00:00+02:00,1976-06-22,,{Sweden|Södertälje}
+Anders Burström,1976-01-01T00:00:00+02:00,1976-01-28,male,{Sweden|Luleå}
+Mattias Öhlund,1976-01-01T00:00:00+02:00,1976-09-09,male,{Sweden|Piteå}
+Nils Ekman,1976-01-01T00:00:00+02:00,1976-03-11,male,{Stockholm|Sweden}
+Jonas Junkka,1976-01-01T00:00:00+02:00,1976-05-04,male,{Sweden|Kiruna}
+Kim Johnsson,1976-01-01T00:00:00+02:00,1976-03-16,male,{Malmö|Sweden}
+Timmy Pettersson,1977-01-01T00:00:00+02:00,1977-03-15,male,{Sweden|Gislaved Sweden}
+Stefan Pettersson (ice hockey),1977-01-01T00:00:00+02:00,1977-06-19,,{Farsta|Sweden}
+Robert Carlsson (ice hockey born 1977),1977-01-01T00:00:00+02:00,1977-09-29,male,{Sweden|Södertälje}
+Björn Danielsson,1977-01-01T00:00:00+02:00,1977-08-14,,{Sweden|Märsta}
+Björn Hellkvist,1977-01-01T00:00:00+02:00,1977-01-03,male,{Malmö|Sweden}
+Martin Johansson (ice hockey born 1977),1977-01-01T00:00:00+02:00,1977-03-18,male,{Sweden|Ängelholm}
+Niklas Anger,1977-01-01T00:00:00+02:00,1977-07-14,,{Stockholm|Sweden}
+Christian Eklund,1977-01-01T00:00:00+02:00,1977-07-24,male,{Sweden|Haninge Municipality}
+Samuel Påhlsson,1977-01-01T00:00:00+02:00,1977-12-17,,{Sweden|Ånge}
+Jonathan Hedström,1977-01-01T00:00:00+02:00,1977-12-27,,{Sweden|Skellefteå}
+Magnus Nilsson (ice hockey),1978-01-01T00:00:00+02:00,1978-02-01,,{Sweden|Finspång Municipality}
+Per Hållberg,1978-01-01T00:00:00+02:00,1978-03-24,male,{Sweden|Örnsköldsvik}
+Per Ledin,1978-01-01T00:00:00+02:00,1978-09-14,,{Sweden|Luleå}
+Stefan Lundqvist,1978-01-01T00:00:00+02:00,1978-02-18,male,{Sweden|Krylbo}
+Henrik Malmström,1978-01-01T00:00:00+02:00,1978-08-26,male,{Sweden|Kristianstad}
+Kristian Huselius,1978-01-01T00:00:00+02:00,1978-11-10,,{Österhaninge|Sweden}
+Marcus Nilson,1978-01-01T00:00:00+02:00,1978-03-01,male,{Sweden|Bålsta}
+Jan Sandström (ice hockey),1978-01-01T00:00:00+02:00,1978-01-24,,{Sweden|Piteå}
+Johan Holmqvist,1978-01-01T00:00:00+02:00,1978-05-24,,{Sweden|Tierp Municipality}
+Johan Olsson (ice hockey),1978-01-01T00:00:00+02:00,1978-02-20,,{Sweden|Karlstad}
+Pierre Hedin,1978-01-01T00:00:00+02:00,1978-02-19,,{Sweden|Örnsköldsvik}
+Daniel Henriksson,1978-01-01T00:00:00+02:00,1978-09-04,male,{Sweden|Övertorneå}
+Josef Boumedienne,1978-01-01T00:00:00+02:00,1978-01-12,male,{Stockholm|Sweden}
+Fredrik Warg,1979-01-01T00:00:00+02:00,1979-05-03,male,{Sweden|Skellefteå}
+Michael Holmqvist,1979-01-01T00:00:00+02:00,1979-06-08,male,{Stockholm|Sweden}
+Mika Hannula,1979-01-01T00:00:00+02:00,1979-04-02,,{Sweden|Huddinge Municipality}
+Mikael Tellqvist,1979-01-01T00:00:00+02:00,1979-09-19,,{Sweden|Sundbyberg Municipality}
+Henrik Petré,1979-01-01T00:00:00+02:00,1979-04-09,male,{Kista|Sweden}
+Henrik Tallinder,1979-01-01T00:00:00+02:00,1979-01-10,,{Stockholm|Sweden}
+Marcus Johansson (ice hockey born 1979),1979-01-01T00:00:00+02:00,1979-07-16,male,{Sweden|Uppvidinge Municipality}
+Marcus Kristoffersson,1979-01-01T00:00:00+02:00,1979-01-22,male,{Sweden|Östersund}
+Maria Rooth,1979-01-01T00:00:00+02:00,1979-11-02,female,{Sweden|Ängelholm}
+Jakob Johansson (ice hockey),1979-01-01T00:00:00+02:00,1979-01-03,,{Sweden|Glimåkra}
+Johan Franzén,1979-01-01T00:00:00+02:00,1979-12-23,male,{Sweden|Vetlanda Municipality}
+Johan Halvardsson,1979-01-01T00:00:00+02:00,1979-12-26,male,{Sweden|Jönköping}
+Johan Lindström,1979-01-01T00:00:00+02:00,1979-03-31,,{Sweden|Taberg}
+Johan Markusson,1979-01-01T00:00:00+02:00,1979-08-20,male,{Sweden|Gävle}
+Pär Styf,1979-01-01T00:00:00+02:00,1979-04-11,male,{Sweden|Sollefteå Municipality}
+Björn Bjurling,1979-01-01T00:00:00+02:00,1979-08-21,male,{Stockholm|Sweden}
+Andreas Andersson (ice hockey),1979-01-01T00:00:00+02:00,1979-04-09,,{Sweden|Falun}
+Mathias Tjärnqvist,1979-01-01T00:00:00+02:00,1979-04-15,,{Sweden|Umeå}
+Niklas Nordgren,1979-01-01T00:00:00+02:00,1979-06-28,,{Sweden|Örnsköldsvik}
+Niklas Persson,1979-01-01T00:00:00+02:00,1979-03-26,,{Sweden|Ösmo}
+Sanny Lindström,1979-01-01T00:00:00+02:00,1979-12-24,,{Stockholm|Sweden}
+Jonas Elofsson,1979-01-01T00:00:00+02:00,1979-01-31,male,{Sweden|Ulricehamn}
+Erik Lewerström,1980-01-01T00:00:00+02:00,1980-05-28,male,{Sweden|Grums}
+Magnus Kahnberg,1980-01-01T00:00:00+02:00,1980-02-25,,{Sweden|Mölndal}
+Fredrik Eriksson (ice hockey born 1980),1980-01-01T00:00:00+02:00,1980-01-30,male,{Sweden|Kristinehamn}
+Gabriel Karlsson,1980-01-01T00:00:00+02:00,1980-01-22,,{Sweden|Borlänge}
+Per Hallin,1980-01-01T00:00:00+02:00,1980-10-17,male,{Sweden|Södertälje Municipality}
+Douglas Murray (ice hockey),1980-01-01T00:00:00+02:00,1980-03-12,male,{Sweden|Bromma}
+Tony Mårtensson,1980-01-01T00:00:00+02:00,1980-06-23,male,{Sweden|Upplands Väsby}
+Henrik Sedin,1980-01-01T00:00:00+02:00,1980-09-26,,{Sweden|Örnsköldsvik}
+Henrik Zetterberg,1980-01-01T00:00:00+02:00,1980-10-09,male,{Sweden|Njurunda}
+Markus Kankaanperä,1980-01-01T00:00:00+02:00,1980-04-27,male,{Sweden|Skellefteå}
+Johan Asplund (ice hockey),1980-01-01T00:00:00+02:00,1980-12-15,male,{Sweden|Skutskär}
+Johan Svedberg,1980-01-01T00:00:00+02:00,1980-02-14,male,{Sweden|Kalix Municipality}
+Rickard Wallin,1980-01-01T00:00:00+02:00,1980-04-09,,{Stockholm|Sweden}
+Daniel Sedin,1980-01-01T00:00:00+02:00,1980-09-26,,{Sweden|Örnsköldsvik}
+David Printz,1980-01-01T00:00:00+02:00,1980-07-24,,{Solna Municipality|Sweden}
+Calle Steen,1980-01-01T00:00:00+02:00,1980-05-16,male,{Stockholm|Sweden}
+Jens Bergenström,1980-01-01T00:00:00+02:00,1980-09-12,,{Sweden|Borlänge}
+Jimmie Ölvestad,1980-01-01T00:00:00+02:00,1980-02-16,male,{Stockholm|Sweden}
+Jimmie Ericsson,1980-01-01T00:00:00+02:00,1980-02-22,,{Sweden|Skellefteå}
+Mats Lavander,1980-01-01T00:00:00+02:00,1980-03-16,male,{Sweden|Piteå}
+Mattias Carlsson,1980-01-01T00:00:00+02:00,1980-02-09,,{Sweden|Nyköping}
+Mattias Weinhandl,1980-01-01T00:00:00+02:00,1980-06-01,male,{Sweden|Ljungby Municipality}
+Christian Bäckman,1980-01-01T00:00:00+02:00,1980-04-28,,{Sweden|Alingsås}
+Christian Berglund,1980-01-01T00:00:00+02:00,1980-03-12,,{Sweden|Örebro}
+Christian Söderström,1980-01-01T00:00:00+02:00,1980-10-13,male,{Sweden|Sundsvall}
+Jonas Frögren,1980-01-01T00:00:00+02:00,1980-08-28,,{Sweden|Falun}
+Jonas Fransson,1980-01-01T00:00:00+02:00,1980-02-20,male,{Sweden|Tranås}
+Fredrik Sundin,1981-01-01T00:00:00+02:00,1981-06-04,male,Sweden
+Mikael Johansson (ice hockey born 1981),1981-01-01T00:00:00+02:00,1981-07-17,,{Gothenburg|Sweden}
+Henrik Löwdahl,1981-01-01T00:00:00+02:00,1981-06-06,male,{Sweden|Örebro}
+Janne Niskala,1981-01-01T00:00:00+02:00,1981-09-22,male,{Sweden|Västerås}
+Jari Tolsa,1981-01-01T00:00:00+02:00,1981-04-20,,{Gothenburg|Sweden}
+Elias Fälth,1981-01-01T00:00:00+02:00,1981-03-30,,{Sweden|Nacka}
+Johan Backlund,1981-01-01T00:00:00+02:00,1981-07-24,male,{Sweden|Skellefteå}
+Johan Wiklander,1981-01-01T00:00:00+02:00,1981-06-09,male,{Sweden|Hägersten}
+Peter Nolander,1981-01-01T00:00:00+02:00,1981-01-29,,{Sweden|Karlstad}
+Daniel Johansson (ice hockey born 1981),1981-01-01T00:00:00+02:00,1981-07-05,male,{Sweden|Umeå}
+Daniel Josefsson,1981-01-01T00:00:00+02:00,1981-10-15,,{Sweden|Tranås}
+Daniel Ljungkvist,1981-01-01T00:00:00+02:00,1981-09-18,,{Sweden|Lannaskede}
+Björn Melin,1981-01-01T00:00:00+02:00,1981-07-04,,{Sweden|Jönköping}
+Andreas Holmqvist,1981-01-01T00:00:00+02:00,1981-07-23,male,{Stockholm|Sweden}
+Martin Thelander,1981-01-01T00:00:00+02:00,1981-05-15,male,Sweden
+Mattias Wennerberg,1981-01-01T00:00:00+02:00,1981-08-06,,{Sweden|Vilhelmina}
+Niklas Kronwall,1981-01-01T00:00:00+02:00,1981-01-12,,{Stockholm|Sweden}
+Johnny Oduya,1981-01-01T00:00:00+02:00,1981-10-01,,{Stockholm|Sweden}
+Jonas Andersson (ice hockey),1981-01-01T00:00:00+02:00,1981-02-24,,{Sweden|Lidingö}
+Jörgen Sundqvist (ice hockey),1982-01-01T00:00:00+02:00,1982-09-24,male,{Sweden|Härnösand}
+Emil Lundberg,1982-01-01T00:00:00+02:00,1982-01-11,male,{Sweden|Luleå}
+Erik Andersson (ice hockey born 1982),1982-01-01T00:00:00+02:00,1982-04-15,,{Sweden|Umeå}
+Erik Ersberg,1982-01-01T00:00:00+02:00,1982-03-08,,{Sweden|Sala Sweden}
+Erik Forssell,1982-01-01T00:00:00+02:00,1982-01-30,,{Sweden|Skellefteå}
+Tim Eriksson,1982-01-01T00:00:00+02:00,1982-02-05,male,{Sweden|Södertälje}
+Gusten Törnqvist,1982-01-01T00:00:00+02:00,1982-06-27,,{Sweden|Luleå}
+Peter Öberg (ice hockey),1982-01-01T00:00:00+02:00,1982-08-03,male,{Sweden|Umeå}
+Tomas Kollar,1982-01-01T00:00:00+02:00,1982-04-20,male,{Stockholm|Sweden}
+Staffan Kronwall,1982-01-01T00:00:00+02:00,1982-09-10,male,{Sweden|Järfälla Municipality}
+Stefan Gråhns,1982-01-01T00:00:00+02:00,1982-04-19,male,{Sweden|Södertälje}
+Henrik Lundqvist,1982-01-01T00:00:00+02:00,1982-03-02,male,{Sweden|Åre Municipality|Åre}
+Lars Jonsson (ice hockey),1982-01-01T00:00:00+02:00,1982-01-02,male,{Sweden|Borlänge}
+Joel Lundqvist,1982-01-01T00:00:00+02:00,1982-03-02,male,{Sweden|Åre}
+Johan Ejdepalm,1982-01-01T00:00:00+02:00,1982-01-04,male,{Uppsala|Sweden}
+Oscar Steen,1982-01-01T00:00:00+02:00,1982-07-20,male,{Stockholm|Sweden}
+Pär Arlbrandt,1982-01-01T00:00:00+02:00,1982-11-22,,{Sweden|Jönköping}
+Pär Bäcker,1982-01-01T00:00:00+02:00,1982-01-04,male,{Sweden|Grums}
+Daniel Sperrle,1982-01-01T00:00:00+02:00,1982-10-07,,{Sweden|Sundbyberg Municipality}
+Viktor Fasth,1982-01-01T00:00:00+02:00,1982-08-08,,{Sweden|Kalix}
+Jens Karlsson,1982-01-01T00:00:00+02:00,1982-11-07,male,{Gothenburg|Sweden}
+Anders Adler,1982-01-01T00:00:00+02:00,1982-02-06,,{Stockholm|Sweden}
+Martin Samuelsson,1982-01-01T00:00:00+02:00,1982-01-25,male,{Sweden|Upplands Väsby}
+Daniel Hermansson,1982-01-01T00:00:00+02:00,1982-04-03,,{Sweden|Borlänge}
+Jonas Johansson (ice hockey born 1982),1982-01-01T00:00:00+02:00,1982-03-29,,{Sweden|Luleå}
+Jonas Nordquist,1982-01-01T00:00:00+02:00,1982-04-26,,{Sweden|Leksand}
+Karl Fabricius,1982-01-01T00:00:00+02:00,1982-09-29,,{Boden Sweden|Sweden}
+Yared Hagos,1983-01-01T00:00:00+02:00,1983-03-27,,{Stockholm|Sweden}
+Fredrik Eriksson,1983-01-01T00:00:00+02:00,1983-07-18,,{Sweden|Örebro}
+Fredrik Hynning,1983-01-01T00:00:00+02:00,1983-05-15,,{Stockholm|Sweden}
+Fredrik Sjöström,1983-01-01T00:00:00+02:00,1983-05-06,male,{Sweden|Färgelanda}
+Henrik Karlsson,1983-01-01T00:00:00+02:00,1983-11-27,male,{Sweden|Tumba Sweden}
+Robin Jonsson,1983-01-01T00:00:00+02:00,1983-10-12,male,{Sweden|Upplands Väsby Municipality}
+Joakim Lindström,1983-01-01T00:00:00+02:00,1983-12-05,,{Sweden|Skellefteå}
+Andrée Brendheden,1983-01-01T00:00:00+02:00,1983-01-12,,{Sweden|Finja}
+Andreas Falk,1983-01-01T00:00:00+02:00,1983-02-27,,{Sweden|Huddinge Municipality}
+Andreas Jämtin,1983-01-01T00:00:00+02:00,1983-05-04,male,{Sweden|Danderyd Municipality}
+Martin Thörnberg,1983-01-01T00:00:00+02:00,1983-08-06,male,{Sweden|Jönköping}
+Adam Masuhr,1983-01-01T00:00:00+02:00,1983-05-21,,{Sweden|Gävle}
+Jonas Almtorp,1983-01-01T00:00:00+02:00,1983-11-17,male,{Uppsala|Sweden}
+Tobias Enström,1984-01-01T00:00:00+02:00,1984-11-05,,{Sweden|Nordingrå}
+H. Johan Andersson,1984-01-01T00:00:00+02:00,1984-03-09,,{Sweden|Mariestad}
+Fredrik Johansson (ice hockey),1984-01-01T00:00:00+02:00,1984-02-27,,{Sweden|Munkedal}
+Patric Blomdahl,1984-01-01T00:00:00+02:00,1984-01-30,,{Stockholm|Sweden}
+Miika Wiikman,1984-01-01T00:00:00+02:00,1984-10-17,,{Sweden|Mariestad}
+Tomas Skogs,1984-01-01T00:00:00+02:00,1984-02-19,,{Sweden|Mora Sweden}
+Sebastian Meijer,1984-01-01T00:00:00+02:00,1984-09-01,male,{Sweden|Ulricehamn}
+Henrik Blomqvist,1984-01-01T00:00:00+02:00,1984-03-24,,{Sweden|Växjö}
+Marcus Paulsson,1984-01-01T00:00:00+02:00,1984-01-10,male,{Sweden|Karlskrona}
+Markus Svensson,1984-01-01T00:00:00+02:00,1984-07-09,male,{Sweden|Kalmar}
+Johan A. Andersson,1984-01-01T00:00:00+02:00,1984-05-18,male,{Motala Municipality|Sweden|Motala}
+Johan Björk,1984-01-01T00:00:00+02:00,1984-08-28,male,{Malmö|Sweden}
+Philip Hersby,1984-01-01T00:00:00+02:00,1984-07-25,male,{Malmö|Sweden}
+Pierre Johnsson,1984-01-01T00:00:00+02:00,1984-02-07,male,{Sweden|Karlstad}
+Danijela Rundqvist,1984-01-01T00:00:00+02:00,1984-09-26,,{Stockholm|Sweden}
+Bobbie Hagelin,1984-01-01T00:00:00+02:00,1984-02-01,male,{Sweden|Södertälje}
+Jens Olsson,1984-01-01T00:00:00+02:00,1984-12-09,male,{Malmö|Sweden}
+Jesper Ollas,1984-01-01T00:00:00+02:00,1984-04-27,,{Sweden|Norrköping}
+Joakim Lundström,1984-01-01T00:00:00+02:00,1984-02-25,male,{Sweden|Gävle}
+Andreas Frisk,1984-01-01T00:00:00+02:00,1984-01-05,male,{Solna Municipality|Sweden}
+Andreas Sundin,1984-01-01T00:00:00+02:00,1984-03-15,male,{Sweden|Linköping}
+Andreas Valdix,1984-01-01T00:00:00+02:00,1984-12-06,male,{Malmö|Sweden}
+Nicklas Johansson,1984-01-01T00:00:00+02:00,1984-06-12,male,{Sweden|Umeå}
+Jonas Gustavsson,1984-01-01T00:00:00+02:00,1984-10-24,,{Sweden|Danderyd Municipality}
+Jonas Johansson (ice hockey born 1984),1984-01-01T00:00:00+02:00,1984-03-18,,{Sweden|Jönköping}
+Jonathan Ericsson,1984-01-01T00:00:00+02:00,1984-03-02,,{Sweden|Karlskrona}
+Gustaf Wesslau,1985-01-01T00:00:00+02:00,1985-02-05,,{Sweden|Upplands Väsby}
+Per Savilahti-Nagander,1985-01-01T00:00:00+02:00,1985-04-22,,{Sweden|Luleå}
+Mikael Johansson (ice hockey born 1985),1985-01-01T00:00:00+02:00,1985-06-27,male,{Sweden|Arvika}
+Stefan Erkgärds,1985-01-01T00:00:00+02:00,1985-03-23,,{Sweden|Hagfors}
+Elias Granath,1985-01-01T00:00:00+02:00,1985-09-06,male,{Sweden|Borlänge}
+Johan Forsberg,1985-01-01T00:00:00+02:00,1985-06-29,,{Sweden|Piteå}
+Johan Fransson,1985-01-01T00:00:00+02:00,1985-02-18,male,{Sweden|Kalix}
+Johan Jonsson,1985-01-01T00:00:00+02:00,1985-07-21,male,{Sweden|Västerås}
+Kalle Olsson,1985-01-01T00:00:00+02:00,1985-01-31,,{Sweden|Munkedal}
+Ola Svanberg,1985-01-01T00:00:00+02:00,1985-06-10,male,{Sweden|Tranemo}
+Par Edblom,1985-01-01T00:00:00+02:00,1985-01-31,male,{Sweden|Örnsköldsvik}
+Alexander Hamberg,1985-01-01T00:00:00+02:00,1985-08-04,male,Sweden
+Alexander Larsson,1985-01-01T00:00:00+02:00,1985-09-07,,{Sweden|Grästorp}
+Robin Persson,1985-01-01T00:00:00+02:00,1985-12-05,male,{Sweden|Nyköping}
+Fabian Brunnström,1985-01-01T00:00:00+02:00,1985-02-06,male,{Sweden|Helsingborg}
+David Fredriksson,1985-01-01T00:00:00+02:00,1985-10-04,,{Sweden|Jönköping}
+David Rautio,1985-01-01T00:00:00+02:00,1985-07-08,,{Sweden|Luleå}
+Jens Jakobs,1985-01-01T00:00:00+02:00,1985-03-05,male,{Sweden|Säter}
+Jens Skåhlberg,1985-01-01T00:00:00+02:00,1985-07-02,male,{Sweden|Munkfors}
+Jeremias Augustin,1985-01-01T00:00:00+02:00,1985-11-10,male,{Sweden|Växjö}
+Anders Eriksson (ice hockey born 1985),1985-01-01T00:00:00+02:00,1985-03-17,,{Sweden|Floda Lerum}
+Linus Persson,1985-01-01T00:00:00+02:00,1985-12-29,,{Sweden|Hagfors}
+Linus Videll,1985-01-01T00:00:00+02:00,1985-05-05,,{Stockholm|Sweden men's national ice hockey team}
+Loui Eriksson,1985-01-01T00:00:00+02:00,1985-07-17,,{Gothenburg|Sweden}
+Mattias Karlsson (ice hockey),1985-01-01T00:00:00+02:00,1985-04-15,,{Sweden|Storå Sweden}
+Mattias Persson,1985-01-01T00:00:00+02:00,1985-04-09,male,{Bohus-Malmön|Sweden}
+Nicklas Dahlberg,1985-01-01T00:00:00+02:00,1985-04-20,male,{Sweden|Danderyd Municipality}
+Nicklas Grossmann,1985-01-01T00:00:00+02:00,1985-01-22,,{Sweden|Stockholm County|Nacka}
+Nils Bergström,1985-01-01T00:00:00+02:00,1985-03-07,male,{Sweden|Östersund}
+Christoffer Persson,1985-01-01T00:00:00+02:00,1985-04-04,,{Gothenburg|Sweden}
+Christopher Heino-Lindberg,1985-01-01T00:00:00+02:00,1985-01-29,male,{Sweden|Helsingborg}
+Carl Söderberg,1985-01-01T00:00:00+02:00,1985-10-12,male,{Malmö|Sweden}
+Daniel Åhsberg,1985-01-01T00:00:00+02:00,1985-04-14,male,{Gothenburg|Sweden}
+Jacob Blomqvist,1986-01-01T00:00:00+02:00,1986-11-08,,{Hedesunda|Sweden}
+Emil Axelsson,1986-01-01T00:00:00+02:00,1986-03-19,male,{Sweden|Örebro}
+Erik Andersson (ice hockey born 1986),1986-01-01T00:00:00+02:00,1986-09-18,,{Sweden|Ljungby Municipality}
+Magnus Åkerlund,1986-01-01T00:00:00+02:00,1986-04-25,,{Sweden|Osby Municipality}
+Magnus Häggström,1986-01-01T00:00:00+02:00,1986-11-04,male,{Sweden|Örnsköldsvik}
+Gustav Hjalmarsson,1986-01-01T00:00:00+02:00,1986-04-02,male,{Sweden|Gislaved Sweden}
+Fredrik Näslund,1986-01-01T00:00:00+02:00,1986-02-11,male,{Sweden|Bromma}
+Patrik Hersley,1986-01-01T00:00:00+02:00,1986-06-23,,{Malmö|Sweden}
+Per Åslund,1986-01-01T00:00:00+02:00,1986-08-21,male,{Sweden|Kil Värmland}
+Tommy Enström,1986-01-01T00:00:00+02:00,1986-07-30,,{Sweden|Nordingrå}
+Tommy Wargh,1986-01-01T00:00:00+02:00,1986-12-19,male,{Sweden|Örnsköldsvik}
+Sebastian Karlsson (ice hockey),1986-01-01T00:00:00+02:00,1986-09-19,male,{Gothenburg|Sweden}
+Marcus Olsson (ice hockey),1986-01-01T00:00:00+02:00,1986-09-25,male,{Trelleborg|Sweden}
+Johan Adolfsson,1986-01-01T00:00:00+02:00,1986-09-26,male,{Sweden|Örebro}
+Johan Harju,1986-01-01T00:00:00+02:00,1986-05-15,male,{Sweden|Övertorneå}
+Johan Larsson (ice hockey born 1986),1986-01-01T00:00:00+02:00,1986-03-24,male,{Sweden|Lindesberg}
+Johan Ryno,1986-01-01T00:00:00+02:00,1986-06-05,,{Sweden|Örebro}
+Johannes Salmonsson,1986-01-01T00:00:00+02:00,1986-02-07,male,{Uppsala|Sweden}
+Anton Axelsson,1986-01-01T00:00:00+02:00,1986-01-16,male,{Sweden|Kungälv Municipality|Kungälv}
+Anton Hedman,1986-01-01T00:00:00+02:00,1986-05-15,male,{Stockholm|Sweden}
+Anton Strålman,1986-01-01T00:00:00+02:00,1986-08-01,,{Sweden|Tibro Municipality}
+Albin Lorentzon,1986-01-01T00:00:00+02:00,1986-01-07,,{Sweden|Linköping}
+Alexander Edler,1986-01-01T00:00:00+02:00,1986-04-21,male,{Sweden|Östersund}
+Richard Demén-Willaume,1986-01-01T00:00:00+02:00,1986-01-28,male,{Sweden|Åsa Kungsbacka}
+Robin Jacobsson (ice hockey),1986-01-01T00:00:00+02:00,1986-08-10,male,{Stockholm|Sweden}
+Robin Rahm,1986-01-01T00:00:00+02:00,1986-09-13,male,{Sweden|Torsby}
+Daniel Larsson (ice hockey),1986-01-01T00:00:00+02:00,1986-02-07,male,{Sweden|Boden Municipality}
+Björn Svensson,1986-01-01T00:00:00+02:00,1986-06-16,male,{Sweden|Ljungby Municipality}
+Victor Löfstedt,1986-01-01T00:00:00+02:00,1986-10-16,male,Sweden
+Viktor Lindgren,1986-01-01T00:00:00+02:00,1986-03-16,male,{Sweden|Luleå}
+Viktor Stålberg,1986-01-01T00:00:00+02:00,1986-01-17,,{Gothenburg|Sweden}
+Linus Klasen,1986-01-01T00:00:00+02:00,1986-02-19,,{Stockholm|Sweden}
+Filip Björk,1986-01-01T00:00:00+02:00,1986-10-01,male,{Sweden|Sollentuna Municipality}
+Nicklas Jadeland,1986-01-01T00:00:00+02:00,1986-05-13,male,{Malmö|Sweden}
+Niklas Andersson (ice hockey b. 1986),1986-01-01T00:00:00+02:00,1986-03-05,male,{Stockholm|Sweden}
+Niklas Olausson,1986-01-01T00:00:00+02:00,1986-05-12,male,{Sweden|Tingsryd Municipality}
+Nils Bäckström,1986-01-01T00:00:00+02:00,1986-06-29,,{Stockholm|Sweden}
+Christofer Löfberg,1986-01-01T00:00:00+02:00,1986-10-11,male,{Stockholm|Sweden}
+Carl Gunnarsson,1986-01-01T00:00:00+02:00,1986-11-09,male,{Sweden|Örebro}
+Jonas Karlsson (ice hockey),1986-01-01T00:00:00+02:00,1986-02-14,male,{Sweden|Kil Värmland}
+Jonathan Granström,1986-01-01T00:00:00+02:00,1986-03-09,male,{Sweden|Orsa}
+Kim Martin Hasson,1986-01-01T00:00:00+02:00,1986-02-28,female,{Stockholm|Sweden}
+Elin Holmlöv,1987-01-01T00:00:00+02:00,1987-08-05,female,{Uppsala County|Sweden|Knivsta}
+Erik Josefsson (ice hockey),1987-01-01T00:00:00+02:00,1987-02-18,male,{Sweden|Gislaved Sweden}
+Erik Lindhagen,,1987-10-02,,{Sweden|Linköping}
+Magnus Isaksson,1987-01-01T00:00:00+02:00,1987-01-16,male,{Sweden|Piteå}
+Fredrik Pettersson,1987-01-01T00:00:00+02:00,1987-06-10,male,{Gothenburg|Sweden}
+Patric Hörnqvist,1987-01-01T00:00:00+02:00,1987-01-01,,{Sweden|Sollentuna Municipality}
+Patrik Carlsson,1987-01-01T00:00:00+02:00,1987-11-03,,{Sweden|Kungälv}
+Patrik Zackrisson,1987-01-01T00:00:00+02:00,1987-03-27,male,{Sweden|Ekerö}
+Dick Axelsson,1987-01-01T00:00:00+02:00,1987-04-25,male,{Stockholm|Sweden men's national ice hockey team}
+Mikael Eriksson (ice hockey),1987-01-01T00:00:00+02:00,1987-01-03,male,{Sweden|Karlskoga}
+Mikael Lidhammar,1987-01-01T00:00:00+02:00,1987-10-28,male,{Sweden|Luleå}
+Tom Wandell,1987-01-01T00:00:00+02:00,1987-01-29,,{Sweden|Södertälje}
+Lars Johansson (ice hockey),1987-01-01T00:00:00+02:00,1987-07-11,,{Avesta|Sweden}
+Joel Gistedt,1987-01-01T00:00:00+02:00,1987-12-07,male,{Sweden|Uddevalla}
+Johan Dahlberg,1987-01-01T00:00:00+02:00,1987-02-03,male,{Sweden|Kramfors}
+Oscar Alsenfelt,1987-01-01T00:00:00+02:00,1987-06-24,male,{Malmö|Sweden}
+Alexander Hellström,1987-01-01T00:00:00+02:00,1987-04-17,,{Sweden|Falun}
+Alexander Ribbenstrand,1987-01-01T00:00:00+02:00,1987-01-09,,{Stockholm|Sweden}
+Richard Gynge,1987-01-01T00:00:00+02:00,1987-02-01,male,{Sweden|Tyresö Municipality}
+Robert Rosén,1987-01-01T00:00:00+02:00,1987-06-25,,{Sweden|Alvesta}
+Robin Álvarez,1987-01-01T00:00:00+02:00,1987-08-16,male,{Malmö|Sweden}
+Robin Lindqvist,1987-01-01T00:00:00+02:00,1987-08-16,male,{Boden Sweden|Sweden}
+Daniel Rahimi,1987-01-01T00:00:00+02:00,1987-04-28,male,{Sweden|Umeå}
+Jesper Jensen (ice hockey born 1987),1987-01-01T00:00:00+02:00,1987-05-02,male,{Sweden|Nybro}
+Andreas Engqvist,1987-01-01T00:00:00+02:00,1987-12-23,,{Stockholm|Sweden}
+Andreas Molinder,1987-01-01T00:00:00+02:00,1987-02-23,male,{Sweden|Sollefteå}
+Andreas Thuresson,1987-01-01T00:00:00+02:00,1987-11-18,male,{Sweden|Kristianstad}
+Linus Morin,1987-01-01T00:00:00+02:00,1987-01-30,male,{Uppsala|Sweden}
+Linus Omark,1987-01-01T00:00:00+02:00,1987-02-05,male,{Sweden|Övertorneå}
+Martin Johansson (ice hockey born 1987),1987-01-01T00:00:00+02:00,1987-10-24,male,{Sweden|Landskrona}
+Mattias Ritola,1987-01-01T00:00:00+02:00,1987-03-14,,{Sweden|Borlänge}
+Mattias Sjögren,1987-01-01T00:00:00+02:00,1987-11-27,,{Sweden men's national ice hockey team|Landskrona}
+Nicklas Bäckström,1987-01-01T00:00:00+02:00,1987-11-23,,{Sweden|Gävle|Valbo}
+Niclas Bergfors,1987-01-01T00:00:00+02:00,1987-03-07,male,{Sweden|Södertälje}
+Niklas Hjalmarsson,1987-01-01T00:00:00+02:00,1987-06-06,,{Sweden|Eksjö}
+Christian Swärd,1987-01-01T00:00:00+02:00,1987-03-28,male,{Sweden|Karlstad}
+Daniel Bång,1987-01-01T00:00:00+02:00,1987-04-19,male,{Kista|Sweden}
+Jonas Ahnelöv,1987-01-01T00:00:00+02:00,1987-12-11,,{Sweden|Huddinge Municipality}
+Jonas Junland,1987-01-01T00:00:00+02:00,1987-11-15,,{Sweden|Linköping}
+Kim Sunna,1987-01-01T00:00:00+02:00,1987-06-14,male,{Sweden|Kiruna}
+Emil Sandin,1988-01-01T00:00:00+02:00,1988-02-28,male,{Uppsala|Sweden}
+Emilia Andersson,1988-01-01T00:00:00+02:00,1988-08-31,female,{Stockholm|Sweden}
+Eric Moe (ice hockey),1988-01-01T00:00:00+02:00,1988-03-06,,{Sweden|Timrå Municipality}
+Erik Gustafsson (ice hockey born 1988),1988-01-01T00:00:00+02:00,1988-12-15,,{Sweden|Kvissleby}
+Erik Karlberg,1988-01-01T00:00:00+02:00,1988-05-05,male,{Tyringe|Sweden}
+Thomas Larsson (ice hockey),1988-01-01T00:00:00+02:00,1988-01-16,male,{Sweden|Skellefteå}
+Tobias Forsberg,1988-01-01T00:00:00+02:00,1988-04-05,,{Sweden|Piteå}
+Fredric Andersson,1988-01-01T00:00:00+02:00,1988-10-13,male,{Sweden|Tumba Sweden|List of metropolitan areas in Sweden}
+Fredrik Bringnäs,1988-01-01T00:00:00+02:00,1988-02-04,male,{Sweden|Linköping}
+Patrik Berglund,1988-01-01T00:00:00+02:00,1988-06-02,,{Sweden|Västerås}
+Patrik Lundh,1988-01-01T00:00:00+02:00,1988-06-12,,{Stockholm|Sweden}
+Patrik Wallón,1988-01-01T00:00:00+02:00,1988-05-02,male,{Sweden|Skellefteå}
+Per Johnsson,1988-01-01T00:00:00+02:00,1988-04-20,male,{Sweden|Karlstad}
+Per Svensson (ice hockey),1988-01-01T00:00:00+02:00,1988-10-10,male,Sweden
+Dennis Persson,1988-01-01T00:00:00+02:00,1988-06-02,male,{Sweden|Nyköping}
+Tony Lagerström,1988-01-01T00:00:00+02:00,1988-07-19,male,{Stockholm|Sweden}
+Sebastian Enterfeldt,1988-01-01T00:00:00+02:00,1988-05-22,male,{Sweden|Gävle}
+Simon Önerud,1988-01-01T00:00:00+02:00,1988-06-16,male,{Sweden|Jönköping}
+Stefan Ridderwall,1988-01-01T00:00:00+02:00,1988-03-05,male,{Sweden|Brännkyrka}
+Kristofer Berglund,1988-01-01T00:00:00+02:00,1988-08-12,male,{Sweden|Umeå}
+Mario Kempe,1988-01-01T00:00:00+02:00,1988-09-19,,{Sweden|Kramfors}
+Elias Bjuhr,1988-01-01T00:00:00+02:00,1988-10-17,male,Sweden
+Johan Alcén,1988-01-01T00:00:00+02:00,1988-03-11,,{Sweden men's national ice hockey team|Sandviken Municipality}
+Olov Lundqvist,1988-01-01T00:00:00+02:00,1988-11-23,,Sweden
+Oscar Eklund,1988-01-01T00:00:00+02:00,1988-08-27,male,{Stockholm|Sweden}
+Oscar Johansson,1988-01-01T00:00:00+02:00,1988-05-11,,{Sweden|Karlshamn}
+Peter Wennerström,1988-01-01T00:00:00+02:00,1988-09-07,,{Sweden|Munkfors}
+Alexander Hermansson,1988-01-01T00:00:00+02:00,1988-03-08,male,{Sweden|Karlstad}
+Alexander Johansson,1988-01-01T00:00:00+02:00,1988-11-30,male,{Sweden|Värnamo}
+Robin Figren,1988-01-01T00:00:00+02:00,1988-03-07,male,{Stockholm|Sweden}
+Robin Gartner,1988-01-01T00:00:00+02:00,1988-11-07,male,{Sweden|Nacka}
+Calle Ridderwall,1988-01-01T00:00:00+02:00,1988-05-28,male,{Stockholm|Sweden}
+Jenni Asserholt,1988-01-01T00:00:00+02:00,1988-04-08,female,{Sweden|Örebro}
+Jesper Samuelsson,1988-01-01T00:00:00+02:00,1988-06-13,,{Sweden|Norrköping}
+Jhonas Enroth,1988-01-01T00:00:00+02:00,1988-06-25,,{Stockholm|Sweden}
+Joakim Hillding,1988-01-01T00:00:00+02:00,1988-05-30,male,{Sweden|Ängelholm}
+Anders Lindbäck,1988-01-01T00:00:00+02:00,1988-05-03,male,{Sweden|Gävle}
+Andreas Hjelm,1988-01-01T00:00:00+02:00,1988-03-03,male,{Stockholm|Sweden}
+Mathias Sjöberg,1988-01-01T00:00:00+02:00,1988-09-15,male,{Sweden|Finja}
+Niclas Levein,1988-01-01T00:00:00+02:00,1988-03-03,male,{Sweden|Linköping}
+Christian Engstrand,1988-01-01T00:00:00+02:00,1988-11-08,male,{Sweden|Linköping}
+Sara Grahn,1988-01-01T00:00:00+02:00,1988-09-25,female,{Sweden|Örebro}
+Carl Hagelin,1988-01-01T00:00:00+02:00,1988-08-23,,{Sweden|Södertälje}
+Jonas Sparring,1988-01-01T00:00:00+02:00,1988-11-06,male,{Sweden|Partille Municipality}
+Jonathan Carlsson,1988-01-01T00:00:00+02:00,1988-08-05,male,{Uppsala|Sweden}
+Jonathan Harty,1988-01-01T00:00:00+02:00,1988-04-07,,{Germany|Sweden|Lahr}
+Erica Udén Johansson,1989-01-01T00:00:00+02:00,1989-07-20,,{Sweden|Njurunda}
+Thomas Enström,1989-01-01T00:00:00+02:00,1989-03-03,male,{Sweden|Örnsköldsvik}
+Gustaf Thorell,1989-01-01T00:00:00+02:00,1989-12-12,male,{Sweden|Karlstad}
+Gustav Nyquist,1989-01-01T00:00:00+02:00,1989-09-01,,{Sweden|Halmstad}
+Frida Svedin Thunström,1989-01-01T00:00:00+02:00,1989-11-04,,{Sweden|Timrå}
+Pernilla Winberg,1989-01-01T00:00:00+02:00,1989-02-24,female,{Malmö|Sweden}
+Mikael Backlund,1989-01-01T00:00:00+02:00,1989-03-17,male,{Sweden|Västerås}
+Sebastian Erixon,1989-01-01T00:00:00+02:00,1989-09-12,male,{Sweden|Sundsvall}
+Simon Hjalmarsson,1989-01-01T00:00:00+02:00,1989-02-01,male,{Sweden|Värnamo}
+Henrik Hetta,1989-01-01T00:00:00+02:00,1989-08-17,male,{Malmö|Sweden}
+Marcus Högström,1989-01-01T00:00:00+02:00,1989-03-20,,{Sweden|Sveg}
+Mark Owuya,1989-01-01T00:00:00+02:00,1989-07-18,male,{Stockholm|Sweden|Huddinge Municipality}
+Johan Burlin,1989-01-01T00:00:00+02:00,1989-04-25,male,{Sweden|Skellefteå}
+Johan Erkgärds,1989-01-01T00:00:00+02:00,1989-11-12,male,{Sweden|Hagfors}
+Johan Lorraine,1989-01-01T00:00:00+02:00,1989-02-16,,{Stockholm|Sweden}
+Johan Motin,1989-01-01T00:00:00+02:00,1989-10-10,male,{Sweden|Karlskoga}
+Johannes Jönsson,1989-01-01T00:00:00+02:00,1989-06-11,male,{Sweden|Kalmar}
+Anton Persson,1989-01-01T00:00:00+02:00,1989-01-04,male,{Sweden|Gävle}
+Oscar Möller,1989-01-01T00:00:00+02:00,1989-01-22,,{Stockholm|Sweden}
+Alexander Deilert,1989-01-01T00:00:00+02:00,1989-02-10,male,{Stockholm|Sweden}
+Robin Olsson,1989-01-01T00:00:00+02:00,1989-05-30,male,{Sweden|Luleå}
+Daniel Viksten,1989-01-01T00:00:00+02:00,1989-09-10,male,{Sweden|Mora Sweden}
+David Åslin,1989-01-01T00:00:00+02:00,1989-07-26,male,{Sweden|Mora Sweden}
+David Ullström,1989-01-01T00:00:00+02:00,1989-04-22,male,{Sweden|Jönköping}
+Björn Karlsson,1989-01-01T00:00:00+02:00,1989-01-07,male,{Sweden|Rävemåla}
+Victor Rollin Karlsson,1989-01-01T00:00:00+02:00,1989-08-14,male,{Uppsala|Sweden}
+Viktor Ekbom,1989-01-01T00:00:00+02:00,1989-06-01,,{Sweden|Falköping}
+Jens Hellgren,1989-01-01T00:00:00+02:00,1989-03-06,,{Sweden|Björbo}
+Jens Westin,1989-01-01T00:00:00+02:00,1989-06-29,male,{Sweden|Kalix}
+Joakim Andersson,1989-01-01T00:00:00+02:00,1989-02-05,,{Sweden|Munkedal}
+Joakim Hagelin,1989-01-01T00:00:00+02:00,1989-04-30,male,{Sweden|Linköping}
+Nicklas Lasu,1989-01-01T00:00:00+02:00,1989-09-16,,{Sweden|Mölndal}
+Niclas Lundgren,1989-01-01T00:00:00+02:00,1989-10-15,male,{Sweden|Västerås}
+Niklas Svedberg,1989-01-01T00:00:00+02:00,1989-09-04,male,{Sweden|Sollentuna Municipality}
+Christopher Liljewall,1989-01-01T00:00:00+02:00,1989-12-27,male,{Sweden|Ängelholm}
+Daniel Despotovic,1989-01-01T00:00:00+02:00,1989-12-09,,{Sweden|Södertälje}
+Jacob Markström,1990-01-01T00:00:00+02:00,1990-01-31,male,{Sweden|Gävle}
+Erik Hanses,1990-01-01T00:00:00+02:00,1990-06-01,,{Sweden|Leksand}
+Erik Karlsson,1990-01-01T00:00:00+02:00,1990-05-31,male,{Mimico|Sweden|Vetlanda Municipality}
+Tim Sandberg,1990-01-01T00:00:00+02:00,1990-05-08,male,{Stockholm|Sweden}
+Magnus Nygren,1990-01-01T00:00:00+02:00,1990-06-07,,{Sweden|Karlstad}
+Dennis Bozic,1990-01-01T00:00:00+02:00,1990-08-02,male,{Sweden|Södertälje}
+Dennis Rasmussen (ice hockey),1990-01-01T00:00:00+02:00,1990-07-03,male,{Sweden|Västerås}
+Michael Keränen,1990-01-01T00:00:00+02:00,1990-01-04,,{Stockholm|Sweden}
+Valentina Wallner,1990-01-01T00:00:00+02:00,1990-03-30,,{Stockholm|Sweden}
+Sebastian Idoff,1990-01-01T00:00:00+02:00,1990-12-02,,{Malmö|Sweden}
+Stefan Söder,1990-01-01T00:00:00+02:00,1990-02-11,male,{Stockholm|Sweden}
+Stefan Warg,1990-01-01T00:00:00+02:00,1990-02-06,male,{Stockholm|Sweden}
+Henrik Eriksson,1990-01-01T00:00:00+02:00,1990-04-15,male,{Stockholm|Sweden}
+Henrik Tömmernes,1990-01-01T00:00:00+02:00,1990-08-28,male,{Sweden|Karlstad}
+Marcus Johansson (ice hockey born 1990),1990-01-01T00:00:00+02:00,1990-10-06,male,{Sweden|Landskrona}
+Marcus Krüger,1990-01-01T00:00:00+02:00,1990-05-27,male,{Stockholm|Sweden}
+Jakob Silfverberg,1990-01-01T00:00:00+02:00,1990-10-13,,{Sweden|Gävle}
+Anton Blomqvist,1990-01-01T00:00:00+02:00,1990-03-07,male,{Sweden|Kristianstad}
+Anton Grundel,1990-01-01T00:00:00+02:00,1990-03-05,,{Sweden|Karlstad}
+Anton Gustafsson,1990-01-01T00:00:00+02:00,1990-02-25,,{Sweden|Karlskoga}
+Alexander Urbom,1990-01-01T00:00:00+02:00,1990-12-20,male,{Stockholm|Sweden}
+Ted Brithén,1990-01-01T00:00:00+02:00,1990-11-25,male,{Sweden|Danderyd Municipality}
+David Rundblad,1990-01-01T00:00:00+02:00,1990-10-08,male,{Sweden|Lycksele}
+Victor Hedman,1990-01-01T00:00:00+02:00,1990-12-18,male,{Sweden|Örnsköldsvik}
+Victor Panelin-Borg,1990-01-01T00:00:00+02:00,1990-10-11,male,{Sweden|Ängelholm}
+Jesper Williamsson,1990-01-01T00:00:00+02:00,1990-04-23,male,{Sweden|Nässjö}
+Joacim Eriksson,1990-01-01T00:00:00+02:00,1990-04-09,,{Sweden|Gävle}
+Joakim Mattsson,1990-01-01T00:00:00+02:00,1990-01-24,male,{Sweden|Kramfors}
+Anders Nilsson (ice hockey),1990-01-01T00:00:00+02:00,1990-03-19,male,{Sweden|Luleå}
+André Petersson,1990-01-01T00:00:00+02:00,1990-09-11,male,{Sweden|Olofström}
+Andro Michel,1990-01-01T00:00:00+02:00,1990-06-11,male,{Gothenburg|Sweden}
+Martin Lundberg,1990-01-01T00:00:00+02:00,1990-06-07,,{Sweden|Skellefteå}
+Mattias Ekholm,1990-01-01T00:00:00+02:00,1990-05-24,male,{Sweden|Borlänge}
+Mattias Tedenby,1990-01-01T00:00:00+02:00,1990-02-21,,{Sweden|Vetlanda}
+Melker Karlsson,1990-01-01T00:00:00+02:00,1990-07-18,,{Sweden|Lycksele}
+Niklas Arell,1990-01-01T00:00:00+02:00,1990-10-29,male,{Sweden|Ekerö}
+Christopher Aspeqvist,1990-01-01T00:00:00+02:00,1990-11-09,,{Sweden|Huddinge Municipality}
+Adam Rundqvist,1990-01-01T00:00:00+02:00,1990-07-14,male,{Sweden|Karlstad}
+Daniel Brodin,1990-01-01T00:00:00+02:00,1990-02-09,,{Stockholm|Sweden}
+Kim Lennhammer,1990-01-01T00:00:00+02:00,1990-07-31,,{Stockholm|Sweden}
+Isabelle Jordansson,1991-01-01T00:00:00+02:00,1991-03-08,,{Sweden|Danderyd Municipality}
+Jacob Josefson,1991-01-01T00:00:00+02:00,1991-03-02,male,{Stockholm|Sweden}
+Emma Nordin,1991-01-01T00:00:00+02:00,1991-03-22,,{Sweden|Örnsköldsvik}
+Eric Norin,1991-01-01T00:00:00+02:00,1991-10-22,male,{Sweden|Täby}
+Tim Heed,1991-01-01T00:00:00+02:00,1991-01-27,male,{Gothenburg|Sweden}
+Ludwig Karlsson,1991-01-01T00:00:00+02:00,1991-01-06,male,{Stockholm|Sweden}
+Magnus Hellberg,1991-01-01T00:00:00+02:00,1991-04-04,,{Uppsala|Sweden}
+Magnus Pääjärvi,1991-01-01T00:00:00+02:00,1991-04-12,male,{Sweden|Norrköping}
+Gustaf Lindvall,1991-01-01T00:00:00+02:00,1991-01-08,male,{Boden Sweden|Sweden}
+Fredrik Pettersson-Wentzel,1991-01-01T00:00:00+02:00,1991-07-23,male,{Uppsala|Sweden}
+Fredrik Styrman,1991-01-01T00:00:00+02:00,1991-04-03,male,{Sweden|Kalix}
+Patrick Cehlin,1991-01-01T00:00:00+02:00,1991-07-27,,{Stockholm|Sweden}
+Peter Andersson (ice hockey b. 1991),1991-01-01T00:00:00+02:00,1991-04-13,,{Sweden|Kvidinge|Åstorp Municipality}
+Dennis Everberg,1991-01-01T00:00:00+02:00,1991-12-31,male,{Sweden|Västerås}
+Sebastian Owuya,1991-01-01T00:00:00+02:00,1991-10-08,,{Stockholm|Sweden}
+Sebastian Wännström,1991-01-01T00:00:00+02:00,1991-03-03,male,{Sweden|Gävle}
+Simon Bertilsson,1991-01-01T00:00:00+02:00,1991-04-19,male,{Sweden|Karlskoga}
+Henrik Lundberg (ice hockey goaltender),1991-01-01T00:00:00+02:00,1991-01-14,male,{Gothenburg|Sweden}
+Henrik Nilsson (ice hockey b. 1991),1991-01-01T00:00:00+02:00,1991-05-05,male,{Stockholm|Sweden}
+Klara Myrén,1991-01-01T00:00:00+02:00,1991-05-25,female,{Sweden|Borlänge}
+Klas Dahlbeck,1991-01-01T00:00:00+02:00,1991-07-06,male,{Sweden|Katrineholm}
+Marcus Nilsson (ice hockey),1991-01-01T00:00:00+02:00,1991-05-18,male,{Sweden|Kramfors}
+Marcus Wallmark,1991-01-01T00:00:00+02:00,1991-08-09,male,{Sweden|Umeå}
+Eddie Larsson,1991-01-01T00:00:00+02:00,1991-02-15,male,{Sweden|Mariestad}
+Johan Nielsen,1991-01-01T00:00:00+02:00,1991-09-09,male,{Sweden|Helsingborg}
+Arvid Strömberg,1991-01-01T00:00:00+02:00,1991-06-30,male,{Stockholm|Sweden}
+Anton Lander,1991-01-01T00:00:00+02:00,1991-04-24,male,{Sweden|Timrå}
+Oliver Ekman-Larsson,1991-01-01T00:00:00+02:00,1991-07-17,,{Sweden|Karlskrona}
+Oscar Fantenberg,1991-01-01T00:00:00+02:00,1991-10-07,male,{Sweden|Ljungby}
+Oscar Lindberg (ice hockey),1991-01-01T00:00:00+02:00,1991-10-29,,{Sweden|Skellefteå}
+Oskar Nilsson (ice hockey),1991-01-01T00:00:00+02:00,1991-04-12,male,{Sweden|Luleå}
+Pär Lindholm,1991-01-01T00:00:00+02:00,1991-10-05,male,{Sweden|Kusmark}
+Petter Emanuelsson,1991-01-01T00:00:00+02:00,1991-08-07,male,{Sweden|Kiruna}
+Philip Holm,1991-01-01T00:00:00+02:00,1991-12-08,male,{Stockholm|Sweden}
+Philip Kemi,1991-01-01T00:00:00+02:00,1991-03-02,,{Sweden|Kiruna}
+Philip Samuelsson,1991-01-01T00:00:00+02:00,1991-07-26,male,{Scottsdale Arizona|Sweden|Leksand}
+Pontus Johansson,1991-01-01T00:00:00+02:00,1991-09-22,male,{Uppsala|Sweden}
+Alexander Ytterell,1991-01-01T00:00:00+02:00,1991-07-01,male,{Sweden|Vetlanda}
+Robin Lehner,1991-01-01T00:00:00+02:00,1991-07-24,,{Gothenburg|Sweden}
+Daniel Olsson-Trkulja,1991-01-01T00:00:00+02:00,1991-03-03,male,{Stockholm|Sweden}
+Calle Järnkrok,1991-01-01T00:00:00+02:00,1991-09-25,,{Sweden|Gävle}
+Victor Backman,1991-01-01T00:00:00+02:00,1991-06-16,,{Sweden|Öckerö}
+Viktor Svedberg,1991-01-01T00:00:00+02:00,1991-05-24,male,{Gothenburg|Sweden}
+Jesper Dahlroth,1991-01-01T00:00:00+02:00,1991-07-29,male,{Boden Sweden|Sweden}
+Jesper Fast,1991-01-01T00:00:00+02:00,1991-12-02,male,{Sweden|Nässjö}
+Jesper Thörnberg,1991-01-01T00:00:00+02:00,1991-03-15,,{Sweden|Jönköping}
+Joachim Rohdin,1991-01-01T00:00:00+02:00,1991-10-03,male,{Sweden|Gävle}
+Joakim Ramsten,1991-01-01T00:00:00+02:00,1991-12-20,male,{Sweden|Salem Sweden}
+Andreas Forsström,1991-01-01T00:00:00+02:00,1991-01-24,male,{Sweden|Östersund}
+Martin Hellgren,1991-01-01T00:00:00+02:00,1991-04-01,male,{Sweden|Alfta}
+Martin Karlsson (ice hockey born 1991),1991-01-01T00:00:00+02:00,1991-01-05,male,{Sweden|Falun}
+Mattias Lindström (ice hockey),1991-01-01T00:00:00+02:00,1991-03-21,male,{Sweden|Luleå}
+Nicklas Heinerö,1991-01-01T00:00:00+02:00,1991-03-02,male,{Sweden|Västerhaninge}
+Niclas Burström,1991-01-01T00:00:00+02:00,1991-01-25,,{Sweden|Skellefteå}
+Niclas Edman,1991-01-01T00:00:00+02:00,1991-03-26,male,{Stockholm|Sweden}
+Nils Andersson (ice hockey),1991-01-01T00:00:00+02:00,1991-10-15,male,{Sweden|Umeå}
+Christian Folin,1991-01-01T00:00:00+02:00,1991-02-09,,{Sweden|Kungsbacka}
+Adam Almqvist,1991-01-01T00:00:00+02:00,1991-02-27,,{Sweden|Jönköping}
+Carl Klingberg,1991-01-01T00:00:00+02:00,1991-01-28,male,{Gothenburg|Sweden}
+Casper Carning,1991-01-01T00:00:00+02:00,1991-03-07,,{Gothenburg|Sweden}
+Cecilia Östberg,1991-01-01T00:00:00+02:00,1991-01-15,,{Sweden|Insjön}
+William Wallén,1991-01-01T00:00:00+02:00,1991-08-16,,{Stockholm|Sweden}
+John Norman (ice hockey),1991-01-01T00:00:00+02:00,1991-01-06,male,{Stockholm|Sweden}
+Jon Knuts,1991-01-01T00:00:00+02:00,1991-02-04,male,{Sweden|Malung}
+Jonathan Johansson (ice hockey),1991-01-01T00:00:00+02:00,1991-06-30,,{Gothenburg|Sweden}
+Erik Gustafsson (ice hockey born 1992),1992-01-01T00:00:00+02:00,1992-03-14,male,{Sweden|Nynäshamn}
+Erik Thorell,1992-01-01T00:00:00+02:00,1992-03-03,male,{Sweden|Karlstad}
+Ludvig Rensfeldt,1992-01-01T00:00:00+02:00,1992-01-29,,{Sweden|Gävle}
+Fredric Weigel,1992-01-01T00:00:00+02:00,1992-04-23,,{Stockholm|Sweden}
+Fredrik Claesson,1992-01-01T00:00:00+02:00,1992-11-24,male,{Stockholm|Sweden}
+Gabriel Landeskog,1992-01-01T00:00:00+02:00,1992-11-23,male,{Stockholm|Sweden}
+Patrik Edlund,1992-01-01T00:00:00+02:00,1992-03-23,male,{Sweden|Sundsvall}
+Patrik Näslund,1992-01-01T00:00:00+02:00,1992-04-10,,{Sweden|Värnamo}
+Patrik Nemeth,1992-01-01T00:00:00+02:00,1992-02-08,male,{Stockholm|Sweden}
+Patrik Norén,1992-01-01T00:00:00+02:00,1992-12-01,male,{Sweden|Säter}
+Douglas Lögdal,1992-01-01T00:00:00+02:00,1992-10-31,male,{Sweden|Södertälje}
+Sebastian Dyk,1992-01-01T00:00:00+02:00,1992-09-24,male,{Malmö|Sweden}
+Sebastian Ottosson,1992-01-01T00:00:00+02:00,1992-02-07,male,{Sweden|Karlskrona}
+Sebastian Selin,1992-01-01T00:00:00+02:00,1992-02-09,,{Sweden|Skellefteå}
+Sebastian Strandberg,1992-01-01T00:00:00+02:00,1992-06-04,male,{Sweden|Jönköping}
+Marcus Sörensen,1992-01-01T00:00:00+02:00,1992-04-07,,{Sweden|Södertälje}
+Johan Alm (ice hockey),1992-01-01T00:00:00+02:00,1992-01-28,,{Sweden|Skellefteå}
+Johan Gustafsson,1992-01-01T00:00:00+02:00,1992-02-28,,{Sweden|Köping Sweden}
+Johan Larsson (ice hockey born 1992),1992-01-01T00:00:00+02:00,1992-07-25,,{Sweden|Lau_Gotland}
+Johan Mattsson,1992-01-01T00:00:00+02:00,1992-04-25,male,{Sweden|Huddinge Municipality}
+Johan Sundström,1992-01-01T00:00:00+02:00,1992-09-21,male,{Gothenburg|Sweden}
+John Klingberg,1992-01-01T00:00:00+02:00,1992-08-14,male,{Sweden|Lerum}
+Julius Selle-Larsson,1992-01-01T00:00:00+02:00,1992-03-13,male,{Sweden|Lidköping}
+Anton Byström,1992-01-01T00:00:00+02:00,1992-08-04,male,{Sweden|Örnsköldsvik}
+Anton Forsberg,1992-01-01T00:00:00+02:00,1992-11-27,male,{Sweden|Härnösand}
+Otto Jaksch,1992-01-01T00:00:00+02:00,1992-05-17,male,{Sweden|Öckerö}
+Rasmus Edström,1992-01-01T00:00:00+02:00,1992-03-30,male,{Sweden|Glommersträsk|Glommertr%C3%A4sk}
+Petter Granberg,1992-01-01T00:00:00+02:00,1992-08-27,male,{Sweden|Gällivare}
+Pontus Netterberg,1992-01-01T00:00:00+02:00,1992-02-09,male,{Sweden|Varberg}
+Alexander Lindqvist-Hansen,1992-01-01T00:00:00+02:00,1992-03-08,male,{Sweden|Skövde}
+Robin Dahse,1992-01-01T00:00:00+02:00,1992-04-30,male,{Malmö|Sweden}
+Daniel Sylvander,1992-01-01T00:00:00+02:00,1992-09-23,male,{Sweden|Ängelholm}
+Victor Öhman,1992-01-01T00:00:00+02:00,1992-04-07,male,{Malmö|Sweden}
+Victor Jigmalm,1992-01-01T00:00:00+02:00,1992-02-02,,{Sweden|Linköping}
+Viktor Lööv,1992-01-01T00:00:00+02:00,1992-11-16,male,{Sweden|Södertälje}
+Viktor Näslund,1992-01-01T00:00:00+02:00,1992-07-01,,{Sweden|Jönköping}
+Jesper Olofsson,1992-01-01T00:00:00+02:00,1992-04-07,male,{Sweden|Örnsköldsvik}
+Joakim Nordström,1992-01-01T00:00:00+02:00,1992-02-25,male,{Sweden|Tyresö Municipality}
+Linus Hultström,1992-01-01T00:00:00+02:00,1992-12-09,male,{Sweden|Vimmerby}
+Linus Werneman,1992-01-01T00:00:00+02:00,1992-06-04,,{Sweden|Luleå}
+Felix Eriksson,1992-01-01T00:00:00+02:00,1992-01-08,male,{Sweden|Gävle}
+Mathias Franzén (ice hockey),1992-01-01T00:00:00+02:00,1992-06-20,male,{Sweden|Huddinge Municipality}
+Mattias Bäckman,1992-01-01T00:00:00+02:00,1992-10-03,,{Sweden|Linköping}
+Mattias Granlund,1992-01-01T00:00:00+02:00,1992-06-14,male,{Sweden|Glommertr%C3%A4sk}
+Mattias Janmark-Nylén,1992-01-01T00:00:00+02:00,1992-12-08,,{Stockholm|Sweden}
+Max Friberg,1992-01-01T00:00:00+02:00,1992-11-20,,{Sweden|Skövde}
+Adam Larsson,1992-01-01T00:00:00+02:00,1992-11-12,male,{Sweden|Skellefteå}
+Adam Pettersson,1992-01-01T00:00:00+02:00,1992-01-13,male,{Sweden|Skellefteå}
+Daniel Gunnarsson,1992-01-01T00:00:00+02:00,1992-04-15,male,{Sweden|Köping}
+John Persson,1992-01-01T00:00:00+02:00,1992-05-18,male,{Sweden|Östersund}
+John Westin,1992-01-01T00:00:00+02:00,1992-05-19,male,{Sweden|Kramfors}
+Jonas Gunnarsson,1992-01-01T00:00:00+02:00,1992-03-31,male,{Sweden|Eksjö}
+Emil Djuse,1993-01-01T00:00:00+02:00,1993-10-27,male,{Sweden|Östersund}
+Emil Larsson (ice hockey),1993-01-01T00:00:00+02:00,1993-08-04,male,Sweden
+Emil Molin,1993-01-01T00:00:00+02:00,1993-02-03,male,{Sweden|Gävle}
+Erik Nyström,1993-01-01T00:00:00+02:00,1993-10-30,male,{Stockholm|Sweden}
+Erik de la Rose,1993-01-01T00:00:00+02:00,1993-06-09,male,{Sweden|Arvika}
+Tom Nilsson,1993-01-01T00:00:00+02:00,1993-08-19,,{Sweden|Tyresö Municipality}
+Ludvig Engsund,1993-01-01T00:00:00+02:00,1993-03-16,male,{Gothenburg|Sweden}
+Ludwig Blomstrand,1993-01-01T00:00:00+02:00,1993-03-08,male,{Uppsala|Sweden}
+Fredrik Handemark,1993-01-01T00:00:00+02:00,1993-08-27,male,{Sweden|Björbo}
+Mika Zibanejad,1993-01-01T00:00:00+02:00,1993-04-18,male,{Stockholm|Sweden}
+Mikael Wikstrand,1993-01-01T00:00:00+02:00,1993-11-05,male,{Sweden|Karlstad}
+Tommi Juntunen,1993-01-01T00:00:00+02:00,1993-03-17,male,{Gothenburg|Sweden}
+Simon Fredriksson,1993-01-01T00:00:00+02:00,1993-05-18,male,Sweden
+Simon Petersson,1993-01-01T00:00:00+02:00,1993-03-21,male,{Sweden|Vimmerby}
+Sonny Karlsson (ice hockey),1993-01-01T00:00:00+02:00,1993-03-14,,{Sweden|Älvdalen}
+Stefan Steen,1993-01-01T00:00:00+02:00,1993-01-06,male,{Sweden|Sunne Sweden}
+Kristoffer Wikner,1993-01-01T00:00:00+02:00,1993-01-20,male,{Sweden|Kungsbacka}
+Lars Bryggman,1993-01-01T00:00:00+02:00,1993-01-09,male,{Sweden|Umeå}
+Marcus Oskarsson,1993-01-01T00:00:00+02:00,1993-09-20,male,{Sweden|Kiruna}
+Jakob Lilja,1993-01-01T00:00:00+02:00,1993-07-23,male,{Sweden|Limhamn}
+Joel Lassinantti,1993-01-01T00:00:00+02:00,1993-01-08,male,{Sweden|Luleå}
+Johan Eriksson (ice hockey),1993-01-01T00:00:00+02:00,1993-05-28,male,Sweden
+Johan Johnsson,1993-01-01T00:00:00+02:00,1993-01-16,male,{Sweden|Jönköping}
+Kalle Johansson,1993-01-01T00:00:00+02:00,1993-01-21,,{Sweden|Östersund}
+Anton Bengtsson,1993-01-01T00:00:00+02:00,1993-05-13,male,{Sweden|Karlstad}
+Anton Karlsson,1993-01-01T00:00:00+02:00,1993-05-20,male,{Sweden|Vetlanda}
+Anton Wedin,1993-01-01T00:00:00+02:00,1993-03-01,male,{Sweden|Sundsvall}
+Oscar Engsund,1993-01-01T00:00:00+02:00,1993-08-03,male,Sweden
+Oscar Klefbom,1993-01-01T00:00:00+02:00,1993-07-20,male,{Sweden|Karlstad}
+Oskar Lindstedt,1993-01-01T00:00:00+02:00,1993-07-16,male,{Stockholm|Sweden}
+Rasmus Bengtsson (ice hockey),1993-01-01T00:00:00+02:00,1993-05-14,male,{Sweden|Landskrona}
+Rasmus Holmen,1993-01-01T00:00:00+02:00,1993-01-04,male,Sweden
+Pontus Åberg,1993-01-01T00:00:00+02:00,1993-09-23,male,{Stockholm|Sweden}
+Alexander Lindgren,1993-01-01T00:00:00+02:00,1993-02-23,male,{Stockholm|Sweden}
+Rickard Rakell,1993-01-01T00:00:00+02:00,1993-05-05,male,{Sweden|Sollentuna Municipality}
+Daniel Ohrn,1993-01-01T00:00:00+02:00,1993-01-27,male,{Sweden|Sundsvall}
+David Lillieström Karlsson,1993-01-01T00:00:00+02:00,1993-04-12,male,{Stockholm|Sweden}
+David Rundqvist,1993-01-01T00:00:00+02:00,1993-01-13,male,{Sweden|Karlstad}
+Viktor Arvidsson,1993-01-01T00:00:00+02:00,1993-04-08,,{Sweden|Kusmark}
+Viktor Kokman,1993-01-01T00:00:00+02:00,1993-03-01,male,{Sweden|Norrköping}
+Villiam Haag,1993-01-01T00:00:00+02:00,1993-11-25,male,{Gothenburg|Sweden}
+Jeremy Boyce-Rotevall,1993-01-01T00:00:00+02:00,1993-08-28,,{Stockholm|Sweden}
+Jesper Appel,1993-01-01T00:00:00+02:00,1993-01-23,,{Sweden|Karlstad}
+Jesper Bärgård,1993-01-01T00:00:00+02:00,1993-04-28,male,{Sweden|Enköping}
+Joachim Nermark,1993-01-01T00:00:00+02:00,1993-05-12,,{Sweden|Sunne Sweden}
+Joakim Nygård,1993-01-01T00:00:00+02:00,1993-01-08,male,{Stockholm|Sweden}
+Almen Bibic,1993-01-01T00:00:00+02:00,1993-03-29,male,{Sweden|Örnsköldsvik}
+Linus Fröberg,1993-01-01T00:00:00+02:00,1993-06-16,,{Sweden|Karlstad}
+Linus Ullmark,1993-01-01T00:00:00+02:00,1993-07-31,male,{Sweden|Lugnvik}
+Filip Windlert,1993-01-01T00:00:00+02:00,1993-01-24,male,{Sweden|Bålsta}
+Mattias Thunman Hälldahl,1993-01-01T00:00:00+02:00,1993-09-07,male,Sweden
+Max Görtz,1993-01-01T00:00:00+02:00,1993-01-28,male,{Sweden|Höör}
+Niklas Lundström,1993-01-01T00:00:00+02:00,1993-01-10,,{Värmdö (island)|Sweden}
+Christoffer Gozzi,1993-01-01T00:00:00+02:00,1993-05-08,male,Sweden
+Christopher Bengtsson,1993-01-01T00:00:00+02:00,1993-10-19,,{Stockholm|Sweden}
+Christopher Fish,1993-01-01T00:00:00+02:00,1993-03-25,,{Sweden|Örebro}
+Sam Marklund,1993-01-01T00:00:00+02:00,1993-01-04,,{Sweden|Skellefteå}
+Adam Bergqvist,1993-01-01T00:00:00+02:00,1993-04-25,male,Sweden
+William Karlsson,1993-01-01T00:00:00+02:00,1993-01-08,male,{Sweden|Märsta}
+Jonas Brodin,1993-01-01T00:00:00+02:00,1993-07-12,male,{Sweden|Karlstad}
+Jonatan Nielsen,1993-01-01T00:00:00+02:00,1993-09-11,male,{Sweden|Anderstorp}
+Jonathan Andersson,1993-01-01T00:00:00+02:00,1993-09-07,,Sweden
+Jonathan Johnson (ice hockey),1993-01-01T00:00:00+02:00,1993-01-11,,{Sweden|Gävle}
+Jacob Spangberg,1994-01-01T00:00:00+02:00,1994-06-12,male,{Sweden|Täby}
+Emil Pettersson,1994-01-01T00:00:00+02:00,1994-01-14,male,{Sweden|Sundsvall}
+Erik Andersson (ice hockey born 1994),1994-01-01T00:00:00+02:00,1994-07-04,male,Sweden
+Erik Karlsson (ice hockey born 1994),1994-01-01T00:00:00+02:00,1994-07-28,male,{Sweden|Lerum}
+Theodor Lennstrom,1994-01-01T00:00:00+02:00,1994-08-08,male,{Stockholm|Sweden}
+Tobias Törnkvist,1994-01-01T00:00:00+02:00,1994-04-14,male,{Sweden|Helsingborg}
+Ludvig Nilsson,1994-01-01T00:00:00+02:00,1994-03-28,male,{Stockholm|Sweden}
+Malte Strömwall,1994-01-01T00:00:00+02:00,1994-08-24,male,{Sweden|Luleå}
+Gustav Olofsson,1994-01-01T00:00:00+02:00,1994-12-01,male,{Sweden|Borås}
+Gustav Possler,1994-01-01T00:00:00+02:00,1994-11-11,male,{Sweden|Södertälje}
+Gustav Rydahl,1994-01-01T00:00:00+02:00,1994-09-11,,{Sweden|Karlstad}
+Hampus Forsling,1994-01-01T00:00:00+02:00,1994-06-19,male,{Gothenburg|Sweden}
+Hampus Lindholm,1994-01-01T00:00:00+02:00,1994-01-20,male,{Sweden|Helsingborg}
+Fredric Anderberg,1994-01-01T00:00:00+02:00,1994-06-20,male,{Sweden|Danderyd Municipality}
+Patrik Blomberg,1994-01-01T00:00:00+02:00,1994-01-27,male,{Stockholm|Sweden}
+Patrik Enberg,1994-01-01T00:00:00+02:00,1994-06-11,male,{Sweden|Arvidsjaur}
+Dennis Nordström,1994-01-01T00:00:00+02:00,1994-01-19,male,{Sweden|Tyresö Municipality}
+Didrik Strömberg,1994-01-01T00:00:00+02:00,1994-03-16,,{Sweden|Sundsvall}
+Michael Lindqvist,1994-01-01T00:00:00+02:00,1994-09-12,male,Sweden
+Tommy Stenqvist,1994-01-01T00:00:00+02:00,1994-09-30,,{Sweden|Sundsvall}
+Sebastian Collberg,1994-01-01T00:00:00+02:00,1994-02-23,,{Sweden|Mariestad}
+Simon Erlandsson,1994-01-01T00:00:00+02:00,1994-09-04,male,{Sweden|Falun}
+Simon Fernholm,1994-01-01T00:00:00+02:00,1994-03-06,male,{Stockholm|Sweden}
+Henrik Marklund,1994-01-01T00:00:00+02:00,1994-06-25,male,{Sweden|Skellefteå}
+Henrik Rommel,1994-01-01T00:00:00+02:00,1994-06-21,male,{Stockholm|Sweden}
+Marcus Fornell,1994-01-01T00:00:00+02:00,1994-07-19,male,Sweden
+Marcus Högberg,1994-01-01T00:00:00+02:00,1994-11-25,male,{Sweden|Örebro}
+Elias Lindholm,1994-01-01T00:00:00+02:00,1994-12-02,male,Boden Sweden
+Joel Kellman,1994-01-01T00:00:00+02:00,1994-05-25,male,{Sweden|Karlskrona}
+Johan Olofsson (ice hockey),1994-01-01T00:00:00+02:00,1994-05-09,male,Sweden
+Johan Sellerstrand,1994-01-01T00:00:00+02:00,1994-03-30,male,Sweden
+Arvid Lundberg,1994-01-01T00:00:00+02:00,1994-09-29,male,Sweden
+Anton Brehmer,1994-01-01T00:00:00+02:00,1994-02-06,male,{Sweden|Örebro}
+Anton Lindholm,1994-01-01T00:00:00+02:00,1994-11-29,male,{Sweden|Umeå}
+Anton Santesson,1994-01-01T00:00:00+02:00,1994-04-29,male,{Sweden|Ängelholm}
+Oscar Dansk,1994-01-01T00:00:00+02:00,1994-02-28,male,{Stockholm|Sweden}
+Oskar Sundqvist,1994-01-01T00:00:00+02:00,1994-03-23,male,{Boden Sweden|Sweden}
+Rasmus Strindö,1994-01-01T00:00:00+02:00,1994-11-24,male,{Gothenburg|Sweden}
+Pontus Widerström,1994-01-01T00:00:00+02:00,1994-05-19,male,{Gothenburg|Sweden}
+Albin Karlsson,1994-01-01T00:00:00+02:00,1994-03-15,male,{Sweden|Finspång}
+Alexander Wennberg,1994-01-01T00:00:00+02:00,1994-09-22,male,{Sweden|Nacka}
+Robin Press,1994-01-01T00:00:00+02:00,1994-12-21,male,{Stockholm|Uppsala|Sweden}
+Robin Söderqvist,1994-01-01T00:00:00+02:00,1994-09-27,male,{Gothenburg|Sweden}
+Daniel Ljunggren,1994-01-01T00:00:00+02:00,1994-02-06,male,Sweden
+Daniel Zaar,1994-01-01T00:00:00+02:00,1994-04-24,male,{Sweden|Helsingborg}
+David Gunnarsson,1994-01-01T00:00:00+02:00,1994-02-20,male,Sweden
+David Suvanto,1994-01-01T00:00:00+02:00,1994-08-18,male,Sweden
+Calle Andersson,1994-01-01T00:00:00+02:00,1994-05-16,male,{Malmö|Sweden}
+Calle Asell,1994-01-01T00:00:00+02:00,1994-02-27,male,{Sweden|Upplands Väsby}
+Calle Rosén,1994-01-01T00:00:00+02:00,1994-02-02,,{Sweden|Växjö}
+Victor Ekarv,1994-01-01T00:00:00+02:00,1994-01-31,male,{Stockholm|Sweden}
+Victor Romfors,1994-01-01T00:00:00+02:00,1994-01-26,male,Sweden
+Jesper Pettersson,1994-01-01T00:00:00+02:00,1994-07-16,male,{Stockholm|Sweden}
+Jimmie Jansson,1994-01-01T00:00:00+02:00,1994-07-30,male,Sweden
+Andreas Johnson (ice hockey),1994-01-01T00:00:00+02:00,1994-11-21,male,{Sweden|Gävle}
+Linus Arnesson,1994-01-01T00:00:00+02:00,1994-09-21,male,{Stockholm|Sweden}
+Filip Forsberg,1994-01-01T00:00:00+02:00,1994-08-13,,{Sweden|Östervåla}
+Filip Sandberg,1994-01-01T00:00:00+02:00,1994-07-23,male,{Sweden|Järfälla Municipality}
+Martin Gronberg,1994-01-01T00:00:00+02:00,1994-05-11,male,{Sweden|Falun}
+Mathias Israelsson,1994-01-01T00:00:00+02:00,1994-07-19,male,{Sweden|Kungälv}
+Mattias Nilsson (ice hockey),1994-01-01T00:00:00+02:00,1994-01-23,,{Visby|Sweden}
+Mattias Saari,1994-01-01T00:00:00+02:00,1994-09-15,male,{Sweden|Sundsvall}
+Max Örnskog,1994-01-01T00:00:00+02:00,1994-02-27,male,{Sweden|Jönköping}
+Nicklas Strid,1994-01-01T00:00:00+02:00,1994-05-15,male,Sweden
+Christian Djoos,1994-01-01T00:00:00+02:00,1994-08-06,male,{Gothenburg|Sweden}
+Christoffer Forsberg,1994-01-01T00:00:00+02:00,1994-03-31,male,{Sweden|Östersund}
+Christoffer Törngren,1994-01-01T00:00:00+02:00,1994-05-16,male,{Sweden|Vimmerby}
+Adam Bergendahl,1994-01-01T00:00:00+02:00,1994-06-25,male,{Sweden|Sundsvall}
+Carl-Johan Meyer,1994-01-01T00:00:00+02:00,1994-04-01,male,{Uppsala|Sweden}
+Jonathan Björklund,1994-01-01T00:00:00+02:00,1994-05-01,male,Sweden
+Kim Lilja,1994-01-01T00:00:00+02:00,1994-01-06,male,{Sweden|Luleå}
+Jacob de la Rose,1995-01-01T00:00:00+02:00,1995-05-20,male,{Sweden|Arvika}
+Lucas Wallmark,1995-01-01T00:00:00+02:00,1995-09-05,male,{Sweden|Umeå}
+Gustav Backström,1995-01-01T00:00:00+02:00,1995-01-03,male,{Sweden|Lindesberg}
+Fredrik Bergvik,1995-01-01T00:00:00+02:00,1995-02-14,male,{Stockholm|Sweden}
+Mikael Johansson (ice hockey born 1995),1995-01-01T00:00:00+02:00,1995-06-28,male,{Sweden|Växjö}
+Sebastian Fakt,1995-01-01T00:00:00+02:00,1995-07-25,male,Sweden
+Lawrence Pilut,1995-01-01T00:00:00+02:00,1995-12-30,male,{Sweden|Tingsryd}
+Marcus Karlström,1995-01-01T00:00:00+02:00,1995-01-06,male,{Sweden|Trångsund}
+Ebbe Siönäs,1995-01-01T00:00:00+02:00,1995-03-07,male,{Sweden|Färingsö}
+Julius Bergman,1995-01-01T00:00:00+02:00,1995-11-02,male,{Stockholm|Sweden}
+Axel Eidstedt,1995-01-01T00:00:00+02:00,1995-03-18,male,{Gothenburg|Sweden}
+Anthon Eriksson,1995-01-01T00:00:00+02:00,1995-02-25,male,{Sweden|Kalix}
+Anton Öhman,1995-01-01T00:00:00+02:00,1995-12-02,male,Sweden
+Anton Blidh,1995-01-01T00:00:00+02:00,1995-03-14,male,{Sweden|Mölnlycke}
+Anton Cederholm,1995-01-01T00:00:00+02:00,1995-02-21,male,{Sweden|Helsingborg}
+Oliver Källbom,1995-01-01T00:00:00+02:00,1995-05-09,male,Sweden
+Robin Byström,1995-01-01T00:00:00+02:00,1995-03-03,male,Sweden
+Fabian Norberg,1995-01-01T00:00:00+02:00,1995-07-13,male,Sweden
+David Selberg,1995-01-01T00:00:00+02:00,1995-06-06,male,Sweden
+David Westlund,1995-01-01T00:00:00+02:00,1995-02-05,male,{Sweden|Östersund}
+Victor Crus Rydberg,1995-01-01T00:00:00+02:00,1995-03-21,male,{Sweden|Växjö}
+Victor Olofsson,1995-01-01T00:00:00+02:00,1995-07-18,male,Sweden
+Jens Hogbom,1995-01-01T00:00:00+02:00,1995-03-01,male,{Sweden|Umeå}
+Jesper Akerman,1995-01-01T00:00:00+02:00,1995-10-02,male,{Stockholm|Sweden}
+Andreas Borgman,1995-01-01T00:00:00+02:00,1995-06-18,male,{Stockholm|Sweden}
+Niklas Hansson,1995-01-01T00:00:00+02:00,1995-01-08,male,{Sweden|Jonstorp}
+Nils Rygaard,1995-01-01T00:00:00+02:00,1995-04-11,male,Sweden
+Adam Brodecki (ice hockey),1995-01-01T00:00:00+02:00,1995-02-22,male,{Stockholm|Sweden}
+Carl Dahlström,1995-01-01T00:00:00+02:00,1995-01-28,male,{Stockholm|Sweden}
+Wilhelm Westlund,1995-01-01T00:00:00+02:00,1995-03-15,male,{Stockholm|Sweden}
+Jonas Johansson (ice hockey born 1995),1995-01-01T00:00:00+02:00,1995-09-19,male,{Sweden|Gävle}
+Gustaf Franzen,1996-01-01T00:00:00+02:00,1996-09-22,male,{Sweden|Valdemarsvik}
+Fredrik Forsberg,1996-01-01T00:00:00+02:00,1996-12-12,male,{Uppsala|Sweden}
+Sebastian Aho,1996-01-01T00:00:00+02:00,1996-02-17,male,{Sweden|Umeå}
+Marcus Pettersson,1996-01-01T00:00:00+02:00,1996-05-08,male,{Sweden|Skellefteå}
+Axel Holmström (ice hockey),1996-01-01T00:00:00+02:00,1996-06-29,male,Sweden
+Anton Karlsson (ice hockey born 1996),1996-01-01T00:00:00+02:00,1996-08-03,male,{Sweden|Lerum}
+Oskar Lindblom,1996-01-01T00:00:00+02:00,1996-08-15,male,{Sweden|Gävle}
+Rasmus Andersson,1996-01-01T00:00:00+02:00,1996-10-27,male,{Malmö|Sweden}
+Robin Kovacs,1996-01-01T00:00:00+02:00,1996-11-16,male,{Stockholm|Sweden}
+Daniel Muzito Bagenda,1996-01-01T00:00:00+02:00,1996-06-16,male,Sweden
+Christoffer Ehn,1996-01-01T00:00:00+02:00,1996-04-05,male,{Sweden|Skara}
+Adam Byström Johansson,1996-01-01T00:00:00+02:00,1996-03-02,male,{Sweden|Munkfors}
+Adrian Kempe,1996-01-01T00:00:00+02:00,1996-09-13,male,{Sweden|Kramfors}
+Kevin Elgestål,1996-01-01T00:00:00+02:00,1996-05-29,male,{Gothenburg|Sweden}
+Oliver Kylington,1997-01-01T00:00:00+02:00,1997-05-19,male,{Stockholm|Sweden}
+Filip Ahl,1997-01-01T00:00:00+02:00,1997-06-12,male,{Sweden|Jönköping}
