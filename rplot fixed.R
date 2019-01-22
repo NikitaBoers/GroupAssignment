@@ -41,5 +41,7 @@ canadians_adapted2$abbmonths <- month.abb[canadians_adapted2$months_ordered]
 canadians_adapted2$abbmonths <- factor(canadians_adapted2$abbmonths, levels = c("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"))
 
 ggplot() +
-  geom_bar(data=canadians_adapted2, mapping=aes(x=abbmonths)) +
-  labs(title = "Number of Canadian ice hockey players \nbased on their month of birth", x = "Months", y = "Number of players") 
+  geom_bar(data=canadians_adapted2, mapping=aes(x=abbmonths, fill=abbmonths), colour='black') +
+  scale_fill_brewer(palette="Set3") +
+  scale_fill_discrete(name="Months") +
+  labs(title = "Number of Canadian ice hockey players \nbased on their month of birth", x = "Months", y = "Number of players")
