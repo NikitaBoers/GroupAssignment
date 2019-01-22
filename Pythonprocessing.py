@@ -15,7 +15,8 @@ import argparse, json, logging, csv, re, sys, codecs
 floatre = re.compile("^\d+\.\d+$")
 intre = re.compile("^\d+$")
 
-def read_header(file="h.txt"):
+
+def read_header(file='h.txt'):
     header=[]
     for line in open(file):
         header.append(line.strip())
@@ -50,7 +51,8 @@ if __name__ == "__main__":
     for year in range(1800,2001): #For loop to go through each year in range 1800-2001(not including 2001)
         data = process_csv(str(year), header)#this was already in the code
         for person in data:# for loop to go through each person in the data 
-            if 'description' in person and 'ice hockey' in str(person['description']).lower():#if there is a description entry, and if it has ice hockey in it. #Make description to string because it gave an integer error 
+            if 'description' in person and 'ice hockey' in str(person['description']).lower() \
+                and 'birthDate' in person and len(person['birthDate']) <= 10:#if there is a description entry, and if it has ice hockey in it. #Make description to string because it gave an integer error 
                 dict_athlete={} # make dictionary to fill for each hockey player
                 if 'rdf-schema#label' in person:# If there is an entry for this
                     dict_athlete['name']=person['rdf-schema#label'] # then save it as name in dictionary
@@ -75,7 +77,7 @@ if __name__ == "__main__":
 import csv
 
 header = ['name', 'birthYear', 'birthDate', 'gender', 'birthplace']
-with open ('hockey_players.csv','w', encoding='utf-8') as file :
+with open ('hockey_players2.csv','w', encoding='utf-8') as file :
     writer = csv.DictWriter(file ,fieldnames=header, lineterminator ='\n', delimiter =',')
     writer.writeheader()
     for person in athletes :
