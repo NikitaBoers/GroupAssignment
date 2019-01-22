@@ -1,0 +1,6 @@
+canadians_adapted <- canadians2 %>%
+  mutate(
+    dates = as.Date(birthDate)
+  )
+  
+ 
