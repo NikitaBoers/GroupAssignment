@@ -3,12 +3,12 @@ library(tidyverse)
 library(plyr)
 
 #Select only Canada in CLI
-finland2 <- read.csv('finland_only.csv')
+finland2 <- read.csv('finland_only2.csv')
 
 #Make sure birth dates are recognised as dates
 finland_adapted <- finland2 %>%
   mutate(
-    dates = as.Date(X1899.02.17),
+    dates = as.Date(birthDate),
     months = format(dates,'%m')
   )
 
