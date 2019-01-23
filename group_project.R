@@ -193,15 +193,15 @@ ggplot(data = dataframe)+
                labs(title = "Number of Canadian ice hockey players \nbased on their month of birth, born in 1975-1999", x = "Months", y = "Number of players")
              
 ggplot()+
-  geom_point(data = birthdate1870, mapping=aes(x=month_text, y=..count..), stat='count',color='black')+
-  geom_line(data =birthdate1870, mapping = aes(x=month_text, y=..count.., group=1), stat='count', color='black')+
-  geom_point(data = birthdate1900, mapping=aes(x=month_text, ..count..), stat='count', color='red')+
-  geom_line(data =birthdate1900, mapping = aes(x=month_text, ..count..,group=1), stat='count', color='red')+
-  geom_point(data = birthdate1925, mapping=aes(x=month_text, ..count..), stat='count', color='blue')+
-  geom_line(data =birthdate1925, mapping = aes(x=month_text, ..count..,group=1), stat='count', color='blue')+
-  geom_point(data = birthdate1950, mapping=aes(x=month_text, ..count..), stat='count', color='orange')+
-  geom_line(data =birthdate1950, mapping = aes(x=month_text, ..count..,group=1), stat='count', color='orange')+
-  geom_point(data = birthdate1975, mapping=aes(x=month_text, ..count..), stat='count', color='purple')+
-  geom_line(data =birthdate1975, mapping = aes(x=month_text, ..count..,group=1), stat='count',color='purple')
- 
-
+  geom_point(data = birthdate1870, mapping=aes(x=month_text, y=..count..,color='1870-1899'), stat='count')+
+  geom_line(data =birthdate1870, mapping = aes(x=month_text, y=..count.., group=1, color='1870-1899'), stat='count')+
+  geom_point(data = birthdate1900, mapping=aes(x=month_text, ..count.., color='1900-1924'), stat='count')+
+  geom_line(data =birthdate1900, mapping = aes(x=month_text, ..count..,group=1, color='1900-1924'), stat='count')+
+  geom_point(data = birthdate1925, mapping=aes(x=month_text, ..count..,color='1925-1949'), stat='count' )+
+  geom_line(data =birthdate1925, mapping = aes(x=month_text, ..count..,group=1, color='1925-1949'), stat='count')+
+  geom_point(data = birthdate1950, mapping=aes(x=month_text, ..count.., color='1950-1974'), stat='count')+
+  geom_line(data =birthdate1950, mapping = aes(x=month_text, ..count..,group=1, color='1950-1974'), stat='count')+
+  geom_point(data = birthdate1975, mapping=aes(x=month_text, ..count.., color='1975-1999'), stat='count')+
+  geom_line(data =birthdate1975, mapping = aes(x=month_text, ..count..,group=1,color='1975-1999'), stat='count')+
+  labs(title = "Number of Canadian ice hockey players \nbased on their month of birth in different groups based on birthyear", x = "Months", y = "Number of players", color='Birth year')
+  
