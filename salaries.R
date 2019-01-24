@@ -2,12 +2,14 @@ setwd("C:/Users/Reina Borst/Desktop/UCU sem 4/Data Analysis for LAS/Group Projec
 library(tidyverse)
 library(plyr)
 
-reinapalette <- c('#FFB5E8', '#B28DFF', '#AFF8D8', '#FFABAB', '#6EB5FF', '#FFC8C1', '#BFFCC8', '#85E3FF', '#D5AAFF', '#FF9CEE', '#A79AFF', '#FFFFFF')
-
 salary_canada <- read.csv('salary_canada.csv')
 salary_finland <- read.csv('salary_finland.csv')
 salary_sweden <- read.csv('salary_sweden.csv')
 salary_usa <- read.csv('salary_usa.csv')
+
+reinapalette <- c('#FFB5E8', '#B28DFF', '#AFF8D8', '#FFABAB', '#6EB5FF', '#FFC8C1', '#BFFCC8', '#85E3FF', '#D5AAFF', '#FF9CEE', '#A79AFF', '#FFFFFF')
+breaks <- seq(0, 4, 1)
+labels <- paste(breaks, "million", sep=' ')
 
 # ---------------->> CANADA <<----------------------
 
@@ -45,27 +47,16 @@ salary_can_oct <- subset(can_salary_adapted, month_text == "October")
 salary_can_nov <- subset(can_salary_adapted, month_text == "November")
 salary_can_dec <- subset(can_salary_adapted, month_text == "December")
 
-mean_sal_can_jan = mean(salary_can_jan$Salary, na.rm = TRUE)
-mean_sal_can_feb = mean(salary_can_feb$Salary, na.rm = TRUE)
-mean_sal_can_mar = mean(salary_can_mar$Salary, na.rm = TRUE)
-mean_sal_can_apr = mean(salary_can_apr$Salary, na.rm = TRUE)
-mean_sal_can_may = mean(salary_can_may$Salary, na.rm = TRUE)
-mean_sal_can_jun = mean(salary_can_jun$Salary, na.rm = TRUE)
-mean_sal_can_jul = mean(salary_can_jul$Salary, na.rm = TRUE)
-mean_sal_can_aug = mean(salary_can_aug$Salary, na.rm = TRUE)
-mean_sal_can_sep = mean(salary_can_sep$Salary, na.rm = TRUE)
-mean_sal_can_oct = mean(salary_can_oct$Salary, na.rm = TRUE)
-mean_sal_can_nov = mean(salary_can_nov$Salary, na.rm = TRUE)
-mean_sal_can_dec = mean(salary_can_dec$Salary, na.rm = TRUE)
-
 mean_sal_can_year <- c(mean(salary_can_jan$Salary, na.rm = TRUE), mean(salary_can_feb$Salary, na.rm = TRUE), mean(salary_can_mar$Salary, na.rm = TRUE), mean(salary_can_apr$Salary, na.rm = TRUE), mean(salary_can_may$Salary, na.rm = TRUE), mean(salary_can_jun$Salary, na.rm = TRUE), mean(salary_can_jul$Salary, na.rm = TRUE), mean(salary_can_aug$Salary, na.rm = TRUE), mean(salary_can_sep$Salary, na.rm = TRUE), mean(salary_can_oct$Salary, na.rm = TRUE), mean(salary_can_nov$Salary, na.rm = TRUE), mean(salary_can_dec$Salary, na.rm = TRUE))
 months_for_plot <- c('January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December')
 ordered_months <- factor(months_for_plot, levels=c('January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'), ordered=TRUE)
 
-#Attempt to plot salary against birth months
+#Plot salary against birth months
 ggplot() +
-  geom_bar(stat="identity", mapping=aes(x=ordered_months, y=mean_sal_can_year), colour='black') +
+  geom_bar(stat="identity", mapping=aes(x=ordered_months, y=mean_sal_can_year, fill=ordered_months)) +
+  scale_y_continuous(breaks = 1000000*breaks, labels = labels) +
   scale_fill_manual(values=reinapalette) +
+  theme(legend.position = "none") + 
   labs(title = "Distribution of salary according to birth month for Canadian ice hockey players", x = "Month of birth", y = "Mean salary")
 
 # ---------------->> FINLAND <<----------------------
@@ -104,25 +95,14 @@ salary_fin_oct <- subset(fin_salary_adapted, month_text == "October")
 salary_fin_nov <- subset(fin_salary_adapted, month_text == "November")
 salary_fin_dec <- subset(fin_salary_adapted, month_text == "December")
 
-mean_sal_fin_jan = mean(salary_fin_jan$Salary, na.rm = TRUE)
-mean_sal_fin_feb = mean(salary_fin_feb$Salary, na.rm = TRUE)
-mean_sal_fin_mar = mean(salary_fin_mar$Salary, na.rm = TRUE)
-mean_sal_fin_apr = mean(salary_fin_apr$Salary, na.rm = TRUE)
-mean_sal_fin_may = mean(salary_fin_may$Salary, na.rm = TRUE)
-mean_sal_fin_jun = mean(salary_fin_jun$Salary, na.rm = TRUE)
-mean_sal_fin_jul = mean(salary_fin_jul$Salary, na.rm = TRUE)
-mean_sal_fin_aug = mean(salary_fin_aug$Salary, na.rm = TRUE)
-mean_sal_fin_sep = mean(salary_fin_sep$Salary, na.rm = TRUE)
-mean_sal_fin_oct = mean(salary_fin_oct$Salary, na.rm = TRUE)
-mean_sal_fin_nov = mean(salary_fin_nov$Salary, na.rm = TRUE)
-mean_sal_fin_dec = mean(salary_fin_dec$Salary, na.rm = TRUE)
-
 mean_sal_fin_year <- c(mean(salary_fin_jan$Salary, na.rm = TRUE), mean(salary_fin_feb$Salary, na.rm = TRUE), mean(salary_fin_mar$Salary, na.rm = TRUE), mean(salary_fin_apr$Salary, na.rm = TRUE), mean(salary_fin_may$Salary, na.rm = TRUE), mean(salary_fin_jun$Salary, na.rm = TRUE), mean(salary_fin_jul$Salary, na.rm = TRUE), mean(salary_fin_aug$Salary, na.rm = TRUE), mean(salary_fin_sep$Salary, na.rm = TRUE), mean(salary_fin_oct$Salary, na.rm = TRUE), mean(salary_fin_nov$Salary, na.rm = TRUE), mean(salary_fin_dec$Salary, na.rm = TRUE))
 
-#Attempt to plot salary against birth months
+#Plot salary against birth months
 ggplot() +
-  geom_bar(stat="identity", mapping=aes(x=ordered_months, y=mean_sal_fin_year), colour='black') +
+  geom_bar(stat="identity", mapping=aes(x=ordered_months, y=mean_sal_fin_year, fill=ordered_months)) +
+  scale_y_continuous(breaks = 1000000*breaks, labels = labels) +
   scale_fill_manual(values=reinapalette) +
+  theme(legend.position = "none") + 
   labs(title = "Distribution of salary according to birth month for Finnish ice hockey players", x = "Month of birth", y = "Mean salary")
 
 #Missing values due to really small sample = limitation
@@ -163,25 +143,14 @@ salary_swe_oct <- subset(swe_salary_adapted, month_text == "October")
 salary_swe_nov <- subset(swe_salary_adapted, month_text == "November")
 salary_swe_dec <- subset(swe_salary_adapted, month_text == "December")
 
-mean_sal_swe_jan = mean(salary_swe_jan$Salary, na.rm = TRUE)
-mean_sal_swe_feb = mean(salary_swe_feb$Salary, na.rm = TRUE)
-mean_sal_swe_mar = mean(salary_swe_mar$Salary, na.rm = TRUE)
-mean_sal_swe_apr = mean(salary_swe_apr$Salary, na.rm = TRUE)
-mean_sal_swe_may = mean(salary_swe_may$Salary, na.rm = TRUE)
-mean_sal_swe_jun = mean(salary_swe_jun$Salary, na.rm = TRUE)
-mean_sal_swe_jul = mean(salary_swe_jul$Salary, na.rm = TRUE)
-mean_sal_swe_aug = mean(salary_swe_aug$Salary, na.rm = TRUE)
-mean_sal_swe_sep = mean(salary_swe_sep$Salary, na.rm = TRUE)
-mean_sal_swe_oct = mean(salary_swe_oct$Salary, na.rm = TRUE)
-mean_sal_swe_nov = mean(salary_swe_nov$Salary, na.rm = TRUE)
-mean_sal_swe_dec = mean(salary_swe_dec$Salary, na.rm = TRUE)
-
 mean_sal_swe_year <- c(mean(salary_swe_jan$Salary, na.rm = TRUE), mean(salary_swe_feb$Salary, na.rm = TRUE), mean(salary_swe_mar$Salary, na.rm = TRUE), mean(salary_swe_apr$Salary, na.rm = TRUE), mean(salary_swe_may$Salary, na.rm = TRUE), mean(salary_swe_jun$Salary, na.rm = TRUE), mean(salary_swe_jul$Salary, na.rm = TRUE), mean(salary_swe_aug$Salary, na.rm = TRUE), mean(salary_swe_sep$Salary, na.rm = TRUE), mean(salary_swe_oct$Salary, na.rm = TRUE), mean(salary_swe_nov$Salary, na.rm = TRUE), mean(salary_swe_dec$Salary, na.rm = TRUE))
 
-#Attempt to plot salary against birth months
+#Plot salary against birth months
 ggplot() +
-  geom_bar(stat="identity", mapping=aes(x=ordered_months, y=mean_sal_swe_year), colour='black') +
+  geom_bar(stat="identity", mapping=aes(x=ordered_months, y=mean_sal_swe_year, fill=ordered_months)) +
+  scale_y_continuous(breaks = 1000000*breaks, labels = labels) +
   scale_fill_manual(values=reinapalette) +
+  theme(legend.position = "none") + 
   labs(title = "Distribution of salary according to birth month for Swedish ice hockey players", x = "Month of birth", y = "Mean salary")
 
 # ---------------->> UNITED STATES <<----------------------
@@ -220,23 +189,31 @@ salary_usa_oct <- subset(usa_salary_adapted, month_text == "October")
 salary_usa_nov <- subset(usa_salary_adapted, month_text == "November")
 salary_usa_dec <- subset(usa_salary_adapted, month_text == "December")
 
-mean_sal_usa_jan = mean(salary_usa_jan$Salary, na.rm = TRUE)
-mean_sal_usa_feb = mean(salary_usa_feb$Salary, na.rm = TRUE)
-mean_sal_usa_mar = mean(salary_usa_mar$Salary, na.rm = TRUE)
-mean_sal_usa_apr = mean(salary_usa_apr$Salary, na.rm = TRUE)
-mean_sal_usa_may = mean(salary_usa_may$Salary, na.rm = TRUE)
-mean_sal_usa_jun = mean(salary_usa_jun$Salary, na.rm = TRUE)
-mean_sal_usa_jul = mean(salary_usa_jul$Salary, na.rm = TRUE)
-mean_sal_usa_aug = mean(salary_usa_aug$Salary, na.rm = TRUE)
-mean_sal_usa_sep = mean(salary_usa_sep$Salary, na.rm = TRUE)
-mean_sal_usa_oct = mean(salary_usa_oct$Salary, na.rm = TRUE)
-mean_sal_usa_nov = mean(salary_usa_nov$Salary, na.rm = TRUE)
-mean_sal_usa_dec = mean(salary_usa_dec$Salary, na.rm = TRUE)
-
 mean_sal_usa_year <- c(mean(salary_usa_jan$Salary, na.rm = TRUE), mean(salary_usa_feb$Salary, na.rm = TRUE), mean(salary_usa_mar$Salary, na.rm = TRUE), mean(salary_usa_apr$Salary, na.rm = TRUE), mean(salary_usa_may$Salary, na.rm = TRUE), mean(salary_usa_jun$Salary, na.rm = TRUE), mean(salary_usa_jul$Salary, na.rm = TRUE), mean(salary_usa_aug$Salary, na.rm = TRUE), mean(salary_usa_sep$Salary, na.rm = TRUE), mean(salary_usa_oct$Salary, na.rm = TRUE), mean(salary_usa_nov$Salary, na.rm = TRUE), mean(salary_usa_dec$Salary, na.rm = TRUE))
 
-#Attempt to plot salary against birth months
+#Plot salary against birth months
 ggplot() +
-  geom_bar(stat="identity", mapping=aes(x=ordered_months, y=mean_sal_usa_year), colour='black') +
+  geom_bar(stat="identity", mapping=aes(x=ordered_months, y=mean_sal_usa_year, fill=ordered_months)) +
+  scale_y_continuous(breaks = 1000000*breaks, labels = labels) +
   scale_fill_manual(values=reinapalette) +
+  theme(legend.position = "none") + 
   labs(title = "Distribution of salary according to birth month for North American ice hockey players", x = "Month of birth", y = "Mean salary")
+
+# ---------------->> ALL COUNTRIES IN ONE PLOT <<----------------------
+
+salary_adapted <- bind_rows(can_salary_adapted, fin_salary_adapted, swe_salary_adapted, usa_salary_adapted)
+
+salary_means = salary_adapted %>%
+  dplyr::group_by(Nat, month_text) %>%
+  dplyr::summarize(mean_salary = mean(Salary, na.rm=T))
+
+salary_means$month_text <- factor(salary_means$month_text, levels = c("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"))
+
+ggplot(
+  data = salary_means,
+  mapping = aes(x=month_text, y=mean_salary)
+) +
+  geom_point(mapping=aes(colour = Nat)) +
+  geom_line(mapping=aes(group=Nat, colour = Nat)) +
+  scale_y_continuous(breaks = 1000000*breaks, labels = labels) +
+  labs(title = "Mean salaries of ice hockey players in different countries, based on birth month", x = "Months", y = "Mean salary", color='Country')
