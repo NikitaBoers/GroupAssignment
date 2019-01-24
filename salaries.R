@@ -7,7 +7,7 @@ salary_finland <- read.csv('salary_finland.csv')
 salary_sweden <- read.csv('salary_sweden.csv')
 salary_usa <- read.csv('salary_usa.csv')
 
-reinapalette <- c('#FFB5E8', '#B28DFF', '#AFF8D8', '#FFABAB', '#6EB5FF', '#FFC8C1', '#BFFCC8', '#85E3FF', '#D5AAFF', '#FF9CEE', '#A79AFF', '#FFFFFF')
+reinapalette <- c('#FFB5E8', '#B28DFF', '#AFF8D8', '#FFABAB', '#6EB5FF', '#FFC8C1', '#BFFCC8', '#85E3FF', '#D5AAFF', '#FF9CEE', '#A79AFF', '#FDFD66')
 breaks <- seq(0, 4, 1)
 labels <- paste(breaks, "million", sep=' ')
 
