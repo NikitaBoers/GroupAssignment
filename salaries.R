@@ -61,6 +61,6 @@ ordered_months <- factor(months_for_plot, levels=c('January', 'February', 'March
 #Attempt to plot salary against birth months
 ggplot() +
   geom_bar(stat="identity", mapping=aes(x=ordered_months, y=mean_sal_year), colour='black') +
-  labs(title = "Canadian distribution of salary according to birth month", x = "Month of birth", y = "Mean salary")
+  labs(title = "Distribution of salary according to birth month for Canadian ice hockey players", x = "Month of birth", y = "Mean salary")
 
 
